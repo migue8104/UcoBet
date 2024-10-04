@@ -1,0 +1,6 @@
+package co.edu.uco.UcoBet.generales.domain.city.rules;
+
+public class Snippet {
+	StateDomain state
+}
+

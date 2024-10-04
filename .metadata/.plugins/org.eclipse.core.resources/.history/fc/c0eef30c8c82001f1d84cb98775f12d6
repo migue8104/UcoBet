@@ -1,0 +1,39 @@
+package co.edu.uco.UcoBet.generales.domain.city;
+
+import java.util.UUID;
+
+import co.edu.uco.UcoBet.generales.domain.Domain;
+import co.edu.uco.UcoBet.generales.domain.country.CountryDomain;
+
+public class CityDomain extends Domain{
+	
+	private String name;
+	private CountryDomain country;
+	
+	private CityDomain(UUID id,String name,CountryDomain country) {
+		super(id);
+		setCountry(country);
+		setName(name);
+	}
+	
+	public static final CityDomain create(UUID id,String name,CountryDomain country) {
+		return new CityDomain(id, name, country);
+	}
+	
+	
+	public String getName() {
+		return name;
+	}
+	private void setName(String name) {
+		this.name = name;
+	}
+	public CountryDomain getCountry() {
+		return country;
+	}
+	private void setCountry(CountryDomain country) {
+		this.country = country;
+	}
+	
+	
+
+}

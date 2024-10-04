@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.domain.Domain"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.domain.country.CountryDomain"/>
+    <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.domain.city.CityDomain"/>
+    <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.domain.DomainRule"/>
+    <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.domain.state.StateDomain"/>
+</qualifiedTypeNameHistroy>
