@@ -1,0 +1,61 @@
+package co.edu.uco.UcoBet.generales.application.secondaryports.entity;
+
+import java.util.UUID;
+
+import co.edu.uco.UcoBet.generales.crosscutting.helpers.ObjectHelper;
+import co.edu.uco.UcoBet.generales.crosscutting.helpers.TextHelper;
+import co.edu.uco.UcoBet.generales.crosscutting.helpers.UUIDHelper;
+import co.edu.uco.UcoBet.generales.domain.Domain;
+import co.edu.uco.UcoBet.generales.domain.country.CountryDomain;
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="State")
+public class StateEntity {
+	
+	@Id
+	@Column(name="id")
+	private UUID id;
+	
+	@Column(name="name")
+	private String name;
+	
+	@ManyToOne
+	@JoinColumn(name="country")
+	private CountryEntity country;
+
+	public final UUID getId() {
+		return id;
+	}
+
+	public final void setId(UUID id) {
+		this.id = UUIDHelper.getDefault(id,UUIDHelper.getDefault());
+	}
+
+	public final String getName() {
+		return name;
+	}
+
+	public final  void setName(String name) {
+		this.name = TextHelper.getDefault(name,TextHelper.getDefault(name));
+	}
+
+	public final CountryEntity getCountry() {
+		return country;
+	}
+
+	public final void setCountry(CountryEntity country) {
+		this.country = ObjectHelper.getDefault(null, null);
+	}
+	
+
+	
+	
+	
+
+}

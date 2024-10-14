@@ -582,3 +582,736 @@ Caused by: java.lang.Exception: Resource '/UcoBet/pom.xml' does not exist.
 2024-10-04 15:18:14,166 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-10-04 15:18:14,179 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
 2024-10-04 15:18:16,483 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT @ C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\pom.xml.
+2024-10-06 22:18:04,024 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-07 22:59:46,633 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-08 19:59:35,726 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-08 20:14:58,008 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-08 23:10:10,844 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-09 10:27:29,093 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-09 10:47:47,125 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-09 10:59:22,455 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 10:59:22,580 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 10:59:22,607 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 11:00:02,990 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 11:00:02,997 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 11:00:03,012 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 11:03:18,742 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 11:03:18,793 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 11:03:18,814 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 11:13:01,041 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 11:13:01,094 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 11:13:01,106 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 12:01:30,913 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-09 16:59:47,478 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-09 17:04:30,226 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 17:04:30,319 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 17:04:30,345 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 17:17:18,027 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 17:17:18,315 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 17:17:18,330 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 17:17:20,501 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 17:17:20,510 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-09 17:17:20,534 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:18:24,169 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:18:24,533 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:18:24,553 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:18:42,917 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:18:42,943 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:18:42,963 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:19:12,943 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:19:13,061 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:19:13,103 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:21:23,224 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:21:23,755 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:21:23,780 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:21:43,090 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:21:43,366 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:21:43,395 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:23:09,318 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:23:09,434 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:23:09,452 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:23:12,303 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:23:12,326 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:23:12,343 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:25:30,789 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:25:31,123 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:25:31,144 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:26:03,401 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:26:03,807 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:26:03,823 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:29:10,769 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:29:10,911 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:29:11,017 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:29:40,765 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:29:41,258 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:29:41,278 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:29:47,506 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:29:47,536 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:29:47,551 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:34:01,683 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:34:02,582 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:34:03,200 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:35:33,755 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:35:34,664 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:35:34,682 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:35:48,986 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:35:49,012 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:35:49,058 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:36:26,332 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:36:26,358 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:36:26,384 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:39:15,997 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:39:16,242 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:39:16,258 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:39:19,097 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:39:19,127 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:39:19,142 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:39:20,733 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:39:20,767 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:39:20,784 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:39:59,213 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:39:59,238 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:39:59,252 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:40:10,128 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:40:10,302 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:40:10,317 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:42:15,190 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:42:15,488 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:42:15,506 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:42:45,042 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:42:45,285 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:42:45,300 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:43:43,105 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:43:43,205 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:43:43,223 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:45:56,307 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:45:56,423 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:45:56,443 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:47:15,635 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:47:15,661 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:47:15,676 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:47:34,543 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:47:34,583 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:47:34,598 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:47:46,044 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:47:50,012 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:47:50,041 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:48:17,213 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:48:17,237 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:48:17,251 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:49:20,464 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:49:20,516 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:49:20,531 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:51:06,111 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:51:06,180 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:51:06,193 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:51:17,111 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:51:17,127 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:51:17,139 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:51:36,432 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:51:36,451 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:51:36,463 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:51:37,876 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:51:37,982 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:51:37,991 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:51:50,555 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:51:50,583 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:51:50,598 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:51:56,435 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:51:56,461 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:51:56,473 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:52:07,880 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:52:07,989 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:52:08,004 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:52:19,649 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:52:19,859 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:52:19,871 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:52:47,341 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:52:47,362 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:52:47,375 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:52:57,947 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:52:57,965 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:52:57,983 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:53:08,719 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:53:08,759 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:53:08,772 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:53:20,680 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:53:20,699 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:53:20,713 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:53:29,097 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:53:29,114 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:53:29,146 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:53:39,176 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:53:39,353 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:53:39,385 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:53:45,359 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:53:45,426 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:53:45,438 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:53:49,502 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:53:49,519 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:53:49,534 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:56:23,963 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:56:24,303 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:56:24,323 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:57:20,454 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:57:20,704 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:57:20,722 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 18:57:37,735 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:57:37,764 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 18:57:37,779 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:00:40,410 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:00:40,706 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:00:40,738 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:00:48,244 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:00:48,411 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:00:48,425 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:00:56,930 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:00:57,094 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:00:57,112 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:01:10,079 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:01:10,098 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:01:10,114 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:03:52,697 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:03:52,883 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:03:52,900 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:05:17,142 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:05:17,362 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:05:17,390 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:05:32,117 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:05:32,293 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:05:32,318 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:05:44,999 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:05:45,288 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:05:45,301 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:06:12,994 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:06:13,460 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:06:13,474 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:06:34,115 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:06:34,543 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:06:34,559 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:06:59,690 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:06:59,718 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:06:59,733 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:08:01,356 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:08:01,632 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:08:01,703 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:08:17,867 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:08:17,890 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:08:17,920 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:08:31,391 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:08:31,468 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:08:31,487 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:08:47,952 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:08:48,476 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:08:48,531 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:08:53,658 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:08:53,699 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:08:53,718 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:09:40,614 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:09:40,878 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:09:40,901 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:11:48,420 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:11:48,980 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:11:49,001 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:14:43,049 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:14:43,208 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:14:43,238 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:19:59,993 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:20:00,138 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:20:00,213 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:20:18,958 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:20:18,989 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:20:19,002 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:20:30,084 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:20:30,135 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:20:30,174 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:20:58,503 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:20:58,524 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:20:58,538 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:21:03,405 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:21:03,425 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:21:03,436 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:22:55,798 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:22:55,928 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:22:55,979 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:23:45,200 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:23:45,566 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:23:45,591 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:23:57,165 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:23:57,299 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:23:57,318 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:26:17,554 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:26:17,721 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:26:17,742 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:27:19,111 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:27:19,550 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:27:19,568 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:27:35,877 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:27:35,915 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:27:35,927 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:29:07,941 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:29:08,134 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:29:08,159 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:29:16,354 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:29:16,393 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:29:16,411 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:29:40,064 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:29:40,499 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:29:40,526 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:31:06,080 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:31:06,124 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:31:06,139 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:32:32,623 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:32:32,788 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:32:32,805 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:32:51,827 [Worker-78: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:32:52,208 [Worker-78: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:32:52,223 [Worker-78: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:33:09,252 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:33:09,500 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:33:09,512 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:35:03,997 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:35:04,441 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:35:04,458 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:36:24,302 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:36:24,328 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:36:24,371 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:37:34,122 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:37:34,151 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:37:34,176 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:39:58,315 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:39:58,548 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:39:58,562 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:40:50,879 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:40:50,904 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:40:50,915 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:41:18,138 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:41:18,167 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:41:18,180 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:41:58,117 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:41:58,178 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:41:58,195 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:42:41,987 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:42:42,086 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:42:42,100 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:43:07,494 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:43:07,602 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:43:07,636 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:43:49,253 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:43:49,920 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:43:50,380 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:44:17,137 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:44:17,195 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:44:17,207 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:44:24,189 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:44:24,208 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:44:24,221 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:45:05,538 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:45:05,648 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:45:05,662 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:45:50,362 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:45:50,382 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:45:50,398 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:46:17,808 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:46:17,917 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:46:17,930 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:46:32,761 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:46:32,882 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:46:32,892 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:46:52,769 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:46:52,924 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:46:52,940 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:47:01,974 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:47:01,999 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:47:02,015 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:47:17,843 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:47:18,107 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:47:18,125 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:47:53,462 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:47:53,482 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:47:53,754 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:48:41,821 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:48:42,119 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:48:42,131 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:49:30,875 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:49:30,899 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:49:30,913 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:50:37,242 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:50:37,494 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:50:37,513 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:51:21,454 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:51:21,658 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:51:21,673 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:51:51,892 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:51:52,137 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:51:52,170 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:52:06,172 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:52:06,852 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:52:06,868 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:52:56,218 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:52:56,634 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:52:56,686 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:53:42,058 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:53:42,191 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:53:42,204 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:54:14,446 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:54:14,519 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:54:14,534 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:55:33,028 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:55:33,095 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:55:33,114 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:55:48,067 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:55:48,092 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:55:48,106 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:56:11,008 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:56:11,033 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:56:11,049 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:59:06,379 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:59:06,514 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:59:06,545 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 19:59:34,228 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:59:34,255 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 19:59:34,267 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:00:08,043 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:00:08,143 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:00:08,163 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:00:32,255 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:00:32,407 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:00:32,420 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:00:55,331 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:00:55,449 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:00:55,466 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:01:50,484 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:01:50,908 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:01:50,922 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:02:30,702 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:02:30,753 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:02:30,770 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:05:46,166 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-09 20:07:03,098 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:07:03,448 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:07:03,489 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:07:27,874 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:07:27,972 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:07:27,994 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:07:57,268 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:07:57,489 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:07:57,513 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:08:24,834 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:08:24,973 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:08:24,993 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:08:49,837 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:08:49,872 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:08:49,887 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:09:42,004 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:09:42,182 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:09:42,224 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:10:17,200 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:10:17,361 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:10:17,383 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:10:41,367 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:10:41,396 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:10:41,433 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:10:47,386 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:10:47,426 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:10:47,440 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:11:58,920 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:11:58,991 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:11:59,009 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:12:16,602 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:12:16,702 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:12:16,730 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:13:25,751 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:13:25,810 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:13:25,860 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:13:48,887 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:13:49,068 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:13:49,086 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:16:56,510 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:16:57,588 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:16:57,616 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:17:05,356 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:17:05,393 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:17:05,408 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:17:49,087 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:17:49,112 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:17:49,129 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:20:14,129 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:20:14,268 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:20:14,310 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:20:20,002 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:20:20,080 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:20:20,095 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:23:18,278 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:23:18,383 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:23:18,645 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:23:27,492 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:23:27,567 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:23:27,589 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:24:00,114 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:24:00,283 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:24:00,306 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:25:29,849 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:25:29,882 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:25:29,899 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:25:32,771 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:25:32,793 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:25:32,806 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:29:08,779 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:29:09,112 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:29:09,180 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:33:11,025 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:33:11,384 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:33:11,404 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:34:05,990 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:34:06,108 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:34:06,121 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:35:44,172 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:35:44,201 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:35:44,214 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:36:45,732 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:36:46,446 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:36:46,466 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:37:40,709 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:37:40,869 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:37:40,944 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:38:08,308 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:38:08,334 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:38:08,387 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:39:19,372 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:39:19,431 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:39:19,446 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:40:54,044 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:40:54,082 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:40:54,101 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:43:21,459 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:43:21,519 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:43:21,534 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:44:56,686 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:44:56,706 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:44:56,757 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:45:37,673 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:45:37,788 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:45:37,802 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:46:28,159 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:46:28,190 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:46:28,204 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:46:55,637 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:46:55,690 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:46:55,709 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:47:16,420 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:47:16,450 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:47:16,477 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:50:31,640 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:50:31,777 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:50:31,793 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:50:34,508 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:50:34,571 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:50:34,587 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:52:27,544 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:52:27,790 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:52:27,821 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:55:54,850 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:55:55,051 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:55:55,065 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:56:24,310 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:56:24,333 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:56:24,349 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:56:39,266 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:56:39,317 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:56:39,329 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 20:59:11,252 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:59:11,325 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 20:59:11,339 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 21:01:42,437 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 21:01:42,520 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 21:01:42,539 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-09 21:05:06,690 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 21:05:07,000 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-09 21:05:07,021 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-10 14:16:14,517 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-10 14:35:11,361 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:35:11,454 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:35:11,467 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-10 14:35:14,820 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:35:14,842 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:35:14,857 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-10 14:36:05,088 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:36:05,101 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:36:05,115 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-10 14:37:54,411 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:37:54,426 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:37:54,442 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-10 14:38:27,523 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:38:27,542 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:38:27,554 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-10 14:40:48,674 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:40:48,693 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:40:48,705 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-10 14:42:59,644 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:42:59,683 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:42:59,701 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-10 14:43:02,651 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:43:02,666 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:43:02,681 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-10 14:43:41,045 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:43:41,058 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:43:41,068 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-10 14:51:47,769 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT @ C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\pom.xml.
+2024-10-10 14:51:49,061 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.pom
+2024-10-10 14:51:49,117 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.pom
+2024-10-10 14:51:49,176 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-parent/1.5.5.Final/mapstruct-parent-1.5.5.Final.pom
+2024-10-10 14:51:49,234 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-parent/1.5.5.Final/mapstruct-parent-1.5.5.Final.pom
+2024-10-10 14:51:49,286 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/1.5.5.Final/mapstruct-processor-1.5.5.Final.pom
+2024-10-10 14:51:49,337 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/1.5.5.Final/mapstruct-processor-1.5.5.Final.pom
+2024-10-10 14:51:50,028 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.jar
+2024-10-10 14:51:51,010 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.jar
+2024-10-10 14:51:51,048 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/1.5.5.Final/mapstruct-processor-1.5.5.Final.jar
+2024-10-10 14:51:51,651 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/1.5.5.Final/mapstruct-processor-1.5.5.Final.jar
+2024-10-10 14:51:52,875 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 14:51:52,880 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 14:51:52,893 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-10 14:51:53,553 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final-sources.jar
+2024-10-10 14:51:54,972 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final-sources.jar
+2024-10-10 14:51:54,985 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mapstruct:mapstruct:1.5.5.Final
+2024-10-10 14:51:55,146 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/1.5.5.Final/mapstruct-processor-1.5.5.Final-sources.jar
+2024-10-10 14:51:56,672 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/1.5.5.Final/mapstruct-processor-1.5.5.Final-sources.jar
+2024-10-10 14:51:56,684 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mapstruct:mapstruct-processor:1.5.5.Final
+2024-10-10 14:51:58,593 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:51:58,646 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 14:51:58,776 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 16:33:20,555 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-13 16:51:14,612 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT @ C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\pom.xml.
+2024-10-13 16:51:17,817 [Worker-1: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.6.0/postgresql-42.6.0.pom
+2024-10-13 16:51:17,969 [Worker-1: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.6.0/postgresql-42.6.0.pom
+2024-10-13 16:51:19,859 [Worker-1: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.6.0/postgresql-42.6.0.jar
+2024-10-13 16:51:20,360 [Worker-1: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.6.0/postgresql-42.6.0.jar
+2024-10-13 16:51:36,703 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.6.0/postgresql-42.6.0-sources.jar
+2024-10-13 16:51:37,338 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.6.0/postgresql-42.6.0-sources.jar
+2024-10-13 16:51:37,357 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.postgresql:postgresql:42.6.0
+2024-10-13 16:51:39,687 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 16:51:40,467 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 16:51:40,498 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 16:51:58,386 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 16:51:58,418 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 16:51:58,557 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 16:54:57,978 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT @ C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\pom.xml.
+2024-10-13 16:55:01,535 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 16:55:01,543 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 16:55:01,556 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 16:55:05,683 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 16:55:05,748 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 16:55:05,793 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 16:55:29,786 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT @ C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\pom.xml.
+2024-10-13 16:55:31,739 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 16:55:31,743 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 16:55:31,755 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 16:55:34,259 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 16:55:34,302 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 16:55:34,335 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 16:56:35,119 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 16:56:35,168 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 16:56:35,178 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 16:58:44,077 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 16:58:44,230 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 16:58:44,247 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 17:08:53,535 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:08:53,651 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:08:53,663 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 17:09:31,414 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:09:31,675 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:09:31,688 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 17:13:43,791 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:13:43,938 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:13:43,948 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 17:14:06,648 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:14:06,660 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:14:06,667 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 17:17:16,099 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:17:17,848 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:17:17,868 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 17:25:10,614 [Worker-52: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT @ C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\pom.xml.
+2024-10-13 17:25:15,051 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:25:15,078 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:25:15,121 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 17:25:17,213 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:25:17,382 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:25:17,400 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 17:53:16,574 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:53:16,903 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:53:16,922 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 17:53:31,343 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:53:31,490 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:53:31,501 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 17:55:46,512 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:55:46,569 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:55:46,577 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 17:56:50,242 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:56:50,624 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:56:50,638 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 17:58:44,569 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:58:44,718 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:58:44,729 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 17:58:56,302 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:58:56,388 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:58:56,398 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:00:07,007 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:00:07,030 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:00:07,041 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:00:16,689 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:00:16,705 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:00:16,713 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:00:29,431 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:00:29,443 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:00:29,456 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:00:48,152 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:00:48,170 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:00:48,183 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:00:59,866 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:00:59,884 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:00:59,897 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:02:29,390 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:02:29,413 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:02:29,425 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:02:39,700 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:02:39,725 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:02:39,736 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:02:48,662 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:02:48,678 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:02:48,690 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:02:54,933 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:02:54,949 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:02:54,967 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:03:07,655 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:03:07,672 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:03:07,684 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:04:11,635 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:04:11,717 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:04:11,728 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:04:55,506 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:04:55,547 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:04:55,558 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:06:21,154 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:06:21,176 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:06:21,189 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:06:56,875 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:06:56,918 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:06:56,931 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:07:02,461 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:07:03,272 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:07:03,282 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:07:16,969 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:07:16,984 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:07:16,996 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:08:27,030 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:08:27,057 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:08:27,070 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 18:08:39,582 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:08:39,599 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:08:39,611 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 19:04:12,688 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:04:13,534 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:04:13,565 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources
+2024-10-13 19:05:38,450 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:05:38,476 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:05:38,487 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\src\test\resources

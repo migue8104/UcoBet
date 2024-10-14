@@ -16,73 +16,64 @@ import jakarta.persistence.Table;
 @Table(name="City")
 public class CityEntity {
 	
-		@Id
-		@Column(name = "id")
-		private UUID id;
+	@Id
+	@Column(name = "id")
+	private UUID id;
 
-		@Column(name = "name")
-		private String name;
+	@Column(name = "name")
+	private String name;
 
-		@ManyToOne
-		@JoinColumn(name = "state")
-		private StateEntity state;
+	@ManyToOne
+	@JoinColumn(name = "state")
+	private StateEntity state;
 
-		public CityEntity() {
-			setId(UUIDHelper.getDefault());
-			setName(TextHelper.EMPTY);
-		}
+	CityEntity() {
+		setId(UUIDHelper.getDefault());
+		setName(TextHelper.EMPTY);
+		setState(StateEntity.create());
+	}
 
-		public CityEntity(final UUID id,final  String name) {
-			setId(id);
-			setName(name);
-		}
+	public CityEntity(final UUID id, final String name, final StateEntity state) {
+		setId(id);
+		setName(name);
+		setState(state);
+	}
 
-		public CityEntity(final UUID id,final  String name, final StateEntity state) {
-			setId(id);
-			setName(name);
-			setState(state);
-		}
+	static final CityEntity create() {
+		return new CityEntity();
+	}
 
+	public static final CityEntity create(final UUID id, final String name, final StateEntity state) {
+		return new CityEntity(id, name, state);
+	}
 
-		public static final CityEntity create(){
-			return new CityEntity();
-		}
+	public static final CityEntity create(final UUID id) {
+		return new CityEntity(id, TextHelper.EMPTY, StateEntity.create());
+	}
 
-		public static final CityEntity create(final UUID id){
-			return new CityEntity(id, TextHelper.EMPTY);
-		}
+	public UUID getId() {
+		return id;
+	}
 
-		public static final CityEntity create(final UUID id, final String name){
-			return new CityEntity(id, name);
-		}
+	public void setId(final UUID id) {
+		this.id = UUIDHelper.getDefault();
+	}
 
-		public static final CityEntity create(final UUID id, final String name, final StateEntity state){
-			return new CityEntity(id, name, state);
-		}
+	public String getName() {
+		return name;
+	}
 
-		public UUID getId() {
-			return id;
-		}
+	public void setName(final String name) {
+		this.name = TextHelper.applyTrim(name);
+	}
 
-		public final void setId(UUID id) {
-			this.id = UUIDHelper.getDefault(id, UUIDHelper.getDefault());
-		}
+	public StateEntity getState() {
+		return state;
+	}
 
-		public String getName() {
-			return name;
-		}
-
-		public final void setName(String name) {
-			this.name = TextHelper.getDefault(name, TextHelper.EMPTY);
-		}
-
-		public final StateEntity getState() {
-			return state;
-		}
-
-		public final void setState(final StateEntity state) {
-			this.state = ObjectHelper.getDefault(state, StateEntity.create());
-		}
+	public void setState(final StateEntity state) {
+		this.state = ObjectHelper.getDefault(state, StateEntity.create());
+	}
 	}
 	
 

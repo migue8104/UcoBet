@@ -3,6 +3,8 @@ package co.edu.uco.UcoBet.generales.infraestructure.secondaryadapters.data.repos
 import java.util.ArrayList;
 import java.util.List;
 
+import org.springframework.stereotype.Repository;
+
 import co.edu.uco.UcoBet.generales.application.secondaryports.entity.CityEntity;
 import co.edu.uco.UcoBet.generales.application.secondaryports.repository.CityRepositoryCustom;
 import co.edu.uco.UcoBet.generales.crosscutting.exceptions.DataUcoBetException;
@@ -13,17 +15,18 @@ import jakarta.persistence.EntityManager;
 import jakarta.persistence.criteria.Predicate;
 
 
-
+@Repository
 public class CityRepositoryImpl implements CityRepositoryCustom{
 	
+
 	private EntityManager entityManager;
 	
 	public CityRepositoryImpl(final EntityManager entityManager) {
-		this.entityManager=entityManager;
+		this.entityManager = entityManager;
 	}
 
 	@Override
-	public List<CityEntity> findByFilter(CityEntity filter) {
+	public List<CityEntity> findByFilter(final CityEntity filter) {
 		try {
 			var criteriaBuilder = entityManager.getCriteriaBuilder();
 			var query = criteriaBuilder.createQuery(CityEntity.class);
@@ -32,7 +35,6 @@ public class CityRepositoryImpl implements CityRepositoryCustom{
 			var predicates = new ArrayList<>();
 			
 			if(!ObjectHelper.isNull(filter)) {
-				
 				if(!UUIDHelper.isDefault(filter.getId())) {
 					predicates.add(criteriaBuilder.equal(result.get("id"), filter.getId()));
 				}
@@ -41,7 +43,7 @@ public class CityRepositoryImpl implements CityRepositoryCustom{
 					predicates.add(criteriaBuilder.equal(result.get("name"), filter.getName()));
 				}
 				
-				if(!ObjectHelper.isNull(filter.getState()) && !UUIDHelper.isDefault(filter.getState().getId())) {
+				if(!UUIDHelper.isDefault(filter.getState().getId())) {
 					predicates.add(criteriaBuilder.equal(result.get("state"), filter.getState()));
 				}
 			}
@@ -49,8 +51,8 @@ public class CityRepositoryImpl implements CityRepositoryCustom{
 			query.select(result).where(criteriaBuilder.and(predicates.toArray(new Predicate[0])));
 			return entityManager.createQuery(query).getResultList();
 			
-		} catch (Exception exception) {
-			throw new DataUcoBetException("error", "error", exception);
+		} catch (final Exception exception) {
+			throw DataUcoBetException.create(null, null, exception);
 		}
 	}
 

@@ -1,0 +1,20 @@
+package co.edu.uco.UcoBet.generales.crosscutting.exceptions;
+
+import co.edu.uco.UcoBet.generales.crosscutting.exceptions.enums.Layer;
+
+public class UcoBetException extends RuntimeException{
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	private String userMessage;
+	private Layer layer;
+	
+	public UcoBetException(String technicalMessage,
+			String userMessage,Layer layer,
+			Exception rootException) {
+
+	}
+
+}

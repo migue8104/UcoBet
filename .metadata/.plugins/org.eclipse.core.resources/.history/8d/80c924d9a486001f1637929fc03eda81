@@ -1,0 +1,17 @@
+package co.edu.uco.UcoBet.generales.domain.city.rules.impl;
+
+import java.util.UUID;
+
+import co.edu.uco.UcoBet.generales.domain.city.rules.CityIdDoesExistRule;
+
+public class CityIdDoesExistRuleImpl implements CityIdDoesExistRule{
+	
+	private 
+
+	@Override
+	public void execute(UUID data) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

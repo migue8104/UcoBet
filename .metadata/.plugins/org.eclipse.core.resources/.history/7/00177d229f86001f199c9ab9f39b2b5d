@@ -1,0 +1,18 @@
+package co.edu.uco.UcoBet.generales.application.secondaryports.entity;
+
+import java.util.UUID;
+
+import co.edu.uco.UcoBet.generales.domain.Domain;
+import co.edu.uco.UcoBet.generales.domain.state.StateDomain;
+
+@Entity
+@Table(name="City")
+public class CityEntity {
+	
+	@Id
+	private UUID id;
+	private String name;
+	private StateDomain state;
+	
+
+}

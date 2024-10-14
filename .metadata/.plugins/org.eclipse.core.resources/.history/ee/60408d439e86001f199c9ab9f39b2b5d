@@ -1,0 +1,16 @@
+package co.edu.uco.UcoBet.generales.application.secondaryports.entity;
+
+import java.util.UUID;
+
+import co.edu.uco.UcoBet.generales.domain.Domain;
+
+public final class CountryEntity {
+	
+	private UUID id;
+	private String name;
+
+
+	
+	
+
+}

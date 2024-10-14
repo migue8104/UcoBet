@@ -1,0 +1,17 @@
+package co.edu.uco.UcoBet.generales.application.primaryports.mapper;
+
+import org.mapstruct.factory.Mappers;
+
+public interface CityDtoMapper {
+	
+	CityDtoMapper INSTANCE = Mappers.getMapper(CityDtoMapper.class);
+
+	CityDTO toDto(CityDomain domain);
+
+	CityDomain toDomain(CityDTO dto);
+
+	List<CityDTO> toDTOCollection(List<CityDomain> domainCollection);
+
+	List<CityDomain> toDomainCollection(List<CityDTO> dtoCollection);
+
+}

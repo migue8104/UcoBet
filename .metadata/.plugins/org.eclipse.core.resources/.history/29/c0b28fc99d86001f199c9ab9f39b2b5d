@@ -1,0 +1,30 @@
+package co.edu.uco.UcoBet.generales.application.secondaryports.entity;
+
+import java.util.UUID;
+
+import co.edu.uco.UcoBet.generales.domain.Domain;
+
+public final class CountryEntity extends Domain{
+	
+	private String name;
+
+	private CountryEntity(final UUID id,final String name) {
+		super(id);
+		setName(name);
+	}
+	
+	public static final CountryEntity create(final UUID id,final String name) {
+		return new CountryEntity(id,name);
+	}
+
+	public final String getName() {
+		return name;
+	}
+
+	private final void setName(String name) {
+		this.name = name;
+	}
+	
+	
+
+}

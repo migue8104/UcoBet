@@ -1,0 +1,35 @@
+1728516577923	Delete element
+1728516586860	Delete element
+1728517909810	Delete element
+1728517939084	Copy compilation unit
+1728517966954	Copy compilation unit
+1728517977645	Copy compilation unit
+1728517988007	Copy compilation unit
+1728518000268	Copy compilation unit
+1728518008690	Copy compilation unit
+1728518018919	Copy compilation unit
+1728518024595	Delete element
+1728518028607	Delete element
+1728518239281	Delete element
+1728518256680	Copy compilation unit
+1728518455575	Delete element
+1728518469090	Delete element
+1728519597345	Copy compilation unit
+1728519617828	Rename type 'CountryDomain'
+1728519628935	Copy compilation unit
+1728519657672	Rename type 'Domain'
+1728519662733	Delete element
+1728519822446	Delete element
+1728520038486	Copy compilation unit
+1728520054469	Rename type 'StateDomain'
+1728520155854	Copy compilation unit
+1728520178546	Rename type 'CityDomain'
+1728520351182	Delete element
+1728520371331	Copy compilation unit
+1728520388082	Rename type 'CityDomain'
+1728522446822	Copy compilation unit
+1728522525497	Rename type 'CityIdDoesExistRule'
+1728523739032	Delete element
+1728524044632	Rename type 'CityIdFormatIsValidRule'
+1728524259151	Rename type 'CityIdFormatIsNotValidException'
+1728524358573	Rename type 'CityIdFormatIsNotValidExceptionImpl'

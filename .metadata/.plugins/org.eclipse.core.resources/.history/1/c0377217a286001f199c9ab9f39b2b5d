@@ -1,0 +1,75 @@
+package co.edu.uco.UcoBet.generales.application.secondaryports.entity;
+
+import java.util.UUID;
+
+import co.edu.uco.UcoBet.generales.crosscutting.helpers.ObjectHelper;
+import co.edu.uco.UcoBet.generales.crosscutting.helpers.TextHelper;
+import co.edu.uco.UcoBet.generales.crosscutting.helpers.UUIDHelper;
+import co.edu.uco.UcoBet.generales.domain.Domain;
+import co.edu.uco.UcoBet.generales.domain.state.StateDomain;
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="City")
+public class CityEntity {
+	
+	@Id
+	@Column(name="id")
+	private UUID id;
+	
+	@Column(name="name")
+	private String name;
+	
+	@ManyToOne
+	@JoinColumn(name="state")
+	private StateEntity state;
+	
+	public static final CityEntity create() {
+		return new CityEntity();
+	}
+	
+	public static final StateEntity create(final UUID id) {
+		return new StateEntity(id,TextHelper.EMPTY,StateEntity.create());
+	}
+	
+	public static final StateEntity create(final UUID id,final String name,final StateEntity state) {
+		return new StateEntity(id,name,state);
+	}
+	
+
+	public UUID getId() {
+		return id;
+	}
+
+	public void setId(UUID id) {
+		this.id = UUIDHelper.getDefault(id,UUIDHelper.getDefault());
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = TextHelper.getDefault(name,TextHelper.EMPTY));
+	}
+
+	public StateEntity getState() {
+		return state;
+	}
+
+	public void setState(StateEntity state) {
+		this.state = ObjectHelper.getDefault(state, StateEntity.create());
+	}
+	
+	
+	
+
+	
+	
+
+}

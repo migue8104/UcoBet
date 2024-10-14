@@ -1,0 +1,6 @@
+package co.edu.uco.UcoBet.generales.application.secondaryports.repository;
+
+@Repository
+public interface CountryRepository extends JPARepository<CountryEntity, UUID> {
+
+}
