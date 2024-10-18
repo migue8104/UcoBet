@@ -1,5 +1,0 @@
-package co.edu.uco.UcoBet.generales.domain.city.rules.impl;
-
-public class CityIdDoesExistRule {
-
-}

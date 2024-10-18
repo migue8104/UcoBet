@@ -1,5 +1,0 @@
-package co.edu.uco.UcoBet.generales.infraestructure.secondaryadapters.data.repository;
-
-public class CityRepositoryImpl {
-
-}

@@ -39,7 +39,7 @@ public class CityEntity {
 		setState(state);
 	}
 
-	static final CityEntity create() {
+	public static final CityEntity create() {
 		return new CityEntity();
 	}
 

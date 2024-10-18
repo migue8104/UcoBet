@@ -39,19 +39,19 @@ public final class CountryEntity {
 		return new CountryEntity(id,TextHelper.EMPTY);
 	}
 
-	public final UUID getId() {
+	public  UUID getId() {
 		return id;
 	}
 
-	public final void setId(UUID id) {
+	public  void setId(UUID id) {
 		this.id = UUIDHelper.getDefault(id,UUIDHelper.getDefault());
 	}
 
-	public final String getName() {
+	public String getName() {
 		return name;
 	}
 
-	public final void setName(String name) {
+	public  void setName(String name) {
 		this.name = TextHelper.getDefault(name,TextHelper.EMPTY);
 	}
 

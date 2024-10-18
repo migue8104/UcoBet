@@ -5,3 +5,51 @@
 1728860574485	Delete element
 1728860695240	Copy compilation unit
 1728860836687	Copy compilation unit
+1728869554236	Move compilation unit
+1728930717685	Delete element
+1728950777090	Delete element
+1728966114340	Delete element
+1728966278517	Delete element
+1728966435826	Rename type 'Sanitizer'
+1728971341858	Delete element
+1729120564104	Delete element
+1729120754408	Delete element
+1729120758614	Delete element
+1729120871605	Rename type 'UpdateUseCase'
+1729121074651	Delete element
+1729124275389	Delete element
+1729124278891	Delete element
+1729124282975	Delete element
+1729124304471	Rename type 'Snippet'
+1729124752069	Move compilation unit
+1729124759927	Delete element
+1729124961742	Move compilation unit
+1729124966287	Delete element
+1729124981366	Delete element
+1729125344537	Delete element
+1729126014103	Delete element
+1729126074398	Move compilation unit
+1729126082006	Delete element
+1729126317065	Rename type 'CityDtoMapper'
+1729126397383	Delete element
+1729127212417	Delete element
+1729129469916	Move compilation unit
+1729198197277	Rename type 'CityDoesExistException'
+1729198219522	Delete element
+1729198224323	Delete element
+1729198228802	Delete element
+1729198245554	Delete element
+1729198417459	Rename type 'CityIdIsNotNullException'
+1729198791357	Rename type 'CityIsNotUsedException'
+1729198900539	Rename type 'CityNameFormatIsValidException'
+1729199159275	Rename type 'CityNameForStateDoesNotExistsException'
+1729199174861	Rename type 'CityNameIsNotEmpyExcpetion'
+1729199223595	Rename type 'CityNameIsEmpyExcpetion'
+1729199293177	Rename type 'CityNameLenghIsValidException'
+1729199359705	Rename type 'CityNameNotNullRule'
+1729199372187	Rename type 'CityNameISNotNullRule'
+1729199380232	Rename type 'CityNameINotNullRule'
+1729199397363	Rename type 'CityNameNotNullException'
+1729199519935	Rename type 'CityStateDoesExistsException'
+1729203818963	Delete element
+1729204083267	Delete element

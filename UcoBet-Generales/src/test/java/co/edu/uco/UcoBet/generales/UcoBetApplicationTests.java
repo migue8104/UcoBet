@@ -5,7 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 import co.edu.uco.UcoBet.generales.init.UcoBetApplication;
 
-@SpringBootTest(classes = UcoBetApplication.class)
+@SpringBootTest(classes= UcoBetApplication.class)
 class UcoBetApplicationTests {
 
 	@Test

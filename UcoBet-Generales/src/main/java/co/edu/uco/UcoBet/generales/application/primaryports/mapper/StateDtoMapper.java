@@ -5,7 +5,7 @@ import java.util.List;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 
-import co.edu.uco.UcoBet.generales.application.primaryports.dto.StateDto;
+import co.edu.uco.UcoBet.generales.application.primaryports.dto.state.StateDto;
 import co.edu.uco.UcoBet.generales.domain.city.CityDomain;
 import co.edu.uco.UcoBet.generales.domain.state.StateDomain;
 

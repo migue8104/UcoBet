@@ -12,7 +12,7 @@ public class CityIdDoesExistRuleImpl implements CityIdDoesExistRule{
 	
 	private CityRepository cityRepository;
 	
-	@Autowired
+
 	public CityIdDoesExistRuleImpl(final CityRepository cityRepository) {
 		this.cityRepository= cityRepository;
 	}

@@ -64,7 +64,7 @@ public class StateEntity {
 				return id;
 			}
 
-			public final void setId(UUID id) {
+			public  void setId(UUID id) {
 				this.id = UUIDHelper.getDefault(id, UUIDHelper.getDefault());
 			}
 
@@ -72,15 +72,15 @@ public class StateEntity {
 				return name;
 			}
 
-			public final void setName(String name) {
+			public void setName(String name) {
 				this.name = TextHelper.getDefault(name, TextHelper.EMPTY);
 			}
 
-			public final CountryEntity getCountry() {
+			public  CountryEntity getCountry() {
 				return country;
 			}
 
-			public final void setCountry(final CountryEntity country) {
+			public  void setCountry(final CountryEntity country) {
 				this.country = ObjectHelper.getDefault(country, CountryEntity.create());
 			}
 		}

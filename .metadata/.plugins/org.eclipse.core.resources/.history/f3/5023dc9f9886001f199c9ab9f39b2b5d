@@ -1,5 +1,0 @@
-package co.edu.uco.UcoBet.generales.crosscutting.exceptions;
-
-public class DomainUcoBetException {
-
-}
