@@ -3,6 +3,8 @@ package co.edu.uco.UcoBet.generales.application.secondaryports.repository;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.springframework.stereotype.Repository;
+
 import co.edu.uco.UcoBet.generales.application.secondaryports.entity.CityEntity;
 import co.edu.uco.UcoBet.generales.crosscutting.exceptions.DataUcoBetException;
 import co.edu.uco.UcoBet.generales.crosscutting.helpers.ObjectHelper;
@@ -12,7 +14,7 @@ import jakarta.persistence.EntityManager;
 import jakarta.persistence.criteria.Predicate;
 
 
-
+@Repository
 public class CityRepositoryImpl implements CityRepositoryCustom{
 	
 

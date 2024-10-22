@@ -10,7 +10,7 @@ public final class DataUcoBetException extends UcoBetException {
 	private static final long serialVersionUID = 1L;
 
 	public DataUcoBetException(final String technicalMessage,final  String userMessage, Exception rootException) {
-		super(technicalMessage, userMessage, Layer.DOMAIN, rootException);
+		super(technicalMessage, userMessage, Layer.DATA, rootException);
 		// TODO Auto-generated constructor stub
 	}
 	

@@ -3,6 +3,7 @@ package co.edu.uco.UcoBet.generales.application.usecase.city.impl;
 import java.util.UUID;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import co.edu.uco.UcoBet.generales.application.usecase.city.RegisterNewCityRuleValidator;
 import co.edu.uco.UcoBet.generales.domain.city.CityDomain;
@@ -13,6 +14,8 @@ import co.edu.uco.UcoBet.generales.domain.city.rules.CityNameIsUniqueForStateRul
 import co.edu.uco.UcoBet.generales.domain.city.rules.CityStateIsValidRule;
 import co.edu.uco.UcoBet.generales.domain.state.StateDomain;
 
+
+@Service
 public final class RegisterNewCityRuleValidatorImpl implements RegisterNewCityRuleValidator {
 
 	@Autowired

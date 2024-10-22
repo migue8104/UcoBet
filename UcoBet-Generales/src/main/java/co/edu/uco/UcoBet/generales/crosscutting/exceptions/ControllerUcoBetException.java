@@ -10,7 +10,7 @@ public final class ControllerUcoBetException extends UcoBetException {
 	private static final long serialVersionUID = 1L;
 
 	public ControllerUcoBetException(final String technicalMessage,final  String userMessage, Exception rootException) {
-		super(technicalMessage, userMessage, Layer.DOMAIN, rootException);
+		super(technicalMessage, userMessage, Layer.CONTROLLER, rootException);
 		// TODO Auto-generated constructor stub
 	}
 	

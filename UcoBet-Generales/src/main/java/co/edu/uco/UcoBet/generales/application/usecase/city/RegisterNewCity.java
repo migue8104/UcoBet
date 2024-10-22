@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 import co.edu.uco.UcoBet.generales.application.usecase.UseCaseWithOutReturn;
 import co.edu.uco.UcoBet.generales.domain.city.CityDomain;
 
-@Service
+
 public interface RegisterNewCity extends UseCaseWithOutReturn<CityDomain>{
 
 }
