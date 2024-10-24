@@ -10,7 +10,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 import com.azure.security.keyvault.secrets.SecretClient;
 
 @SpringBootApplication
-@EnableJpaRepositories(basePackages={" co.edu.uco.UcoBet.generales.application.secondaryports.repository"})
+@EnableJpaRepositories(basePackages={"co.edu.uco.UcoBet"})
 @EntityScan(basePackages= {"co.edu.uco.UcoBet.generales.application.secondaryports.entity"})
 @ComponentScan(basePackages= {" co.edu.uco.UcoBet.generales"})
 public class UcoBetApplication implements CommandLineRunner {

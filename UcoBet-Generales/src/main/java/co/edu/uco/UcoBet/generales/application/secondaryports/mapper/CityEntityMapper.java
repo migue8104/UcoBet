@@ -15,11 +15,9 @@ public interface CityEntityMapper {
 
 	CityEntity toEntity(CityDomain domain);
 
-	CityDomain toDomain(CityEntity entity);
 
 	List<CityEntity> toEntityCollection(List<CityDomain> domainCollection);
 
-	List<CityDomain> toDomainCollection(List<CityEntity> entityCollection);
 	
 
 }

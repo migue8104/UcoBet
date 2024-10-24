@@ -2,6 +2,8 @@ package co.edu.uco.UcoBet.generales.domain.city.rules.impl;
 
 import co.edu.uco.UcoBet.generales.crosscutting.exceptions.RuleUcoBetException;
 
+
+
 public class CityIdFormatIsNotValidRuleImpl extends RuleUcoBetException{
 
 	/**
