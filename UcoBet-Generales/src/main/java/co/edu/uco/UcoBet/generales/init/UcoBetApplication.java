@@ -15,11 +15,11 @@ import com.azure.security.keyvault.secrets.SecretClient;
 @ComponentScan(basePackages= {" co.edu.uco.UcoBet.generales"})
 public class UcoBetApplication implements CommandLineRunner {
 
-	private final SecretClient secretClient;
-
-	public UcoBetApplication(SecretClient secretClient) {
-		this.secretClient = secretClient;
-	}
+//	private final SecretClient secretClient;
+//
+//	public UcoBetApplication(SecretClient secretClient) {
+//		this.secretClient = secretClient;
+//	}
 
 	public static void main(String[] args) {
 		SpringApplication.run(UcoBetApplication.class, args);
@@ -27,11 +27,11 @@ public class UcoBetApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		// Recupera el secreto desde Azure Key Vault y establece la URL de la base de
-		// datos
-		String h2url = secretClient.getSecret("baseDatos").getValue();
-		System.setProperty("baseDatos", h2url);
-		System.out.println(h2url);
+//		// Recupera el secreto desde Azure Key Vault y establece la URL de la base de
+//		// datos
+//		String h2url = secretClient.getSecret("baseDatos").getValue();
+//		System.setProperty("baseDatos", h2url);
+//		System.out.println(h2url);
 
 	}
 

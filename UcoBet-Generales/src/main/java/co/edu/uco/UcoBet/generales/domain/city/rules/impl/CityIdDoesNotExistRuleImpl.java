@@ -2,6 +2,7 @@ package co.edu.uco.UcoBet.generales.domain.city.rules.impl;
 
 import java.util.UUID;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import co.edu.uco.UcoBet.generales.application.secondaryports.repository.CityRepository;
@@ -9,7 +10,7 @@ import co.edu.uco.UcoBet.generales.domain.city.exception.CityIdDoesExistsExcepti
 import co.edu.uco.UcoBet.generales.domain.city.rules.CityIdDoesNotExistRule;
 @Service
 public class CityIdDoesNotExistRuleImpl implements CityIdDoesNotExistRule{
-
+	@Autowired
 	private CityRepository cityRepository;
 	
 

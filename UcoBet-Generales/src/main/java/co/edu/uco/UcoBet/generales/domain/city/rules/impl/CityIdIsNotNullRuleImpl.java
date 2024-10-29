@@ -11,8 +11,6 @@ import co.edu.uco.UcoBet.generales.domain.city.rules.CityIdIsNotNullRule;
 
 @Service
 public class CityIdIsNotNullRuleImpl implements CityIdIsNotNullRule {
-
-	
 	
 	@Override
 	public void execute(UUID data) {

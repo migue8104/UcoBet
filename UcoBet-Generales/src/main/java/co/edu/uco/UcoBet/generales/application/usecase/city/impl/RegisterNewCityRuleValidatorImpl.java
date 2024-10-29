@@ -8,21 +8,18 @@ import org.springframework.stereotype.Service;
 import co.edu.uco.UcoBet.generales.application.usecase.city.RegisterNewCityRuleValidator;
 import co.edu.uco.UcoBet.generales.domain.city.CityDomain;
 import co.edu.uco.UcoBet.generales.domain.city.exception.CityIdDoesExistsException;
-import co.edu.uco.UcoBet.generales.domain.city.rules.CityIdDoesExistRule;
 import co.edu.uco.UcoBet.generales.domain.city.rules.CityIdDoesNotExistRule;
 import co.edu.uco.UcoBet.generales.domain.city.rules.CityIdFormatIsValidRule;
 import co.edu.uco.UcoBet.generales.domain.city.rules.CityIdIsNotEmptyRule;
 import co.edu.uco.UcoBet.generales.domain.city.rules.CityIdIsNotNullRule;
-import co.edu.uco.UcoBet.generales.domain.city.rules.CityIsNotUsedRule;
 import co.edu.uco.UcoBet.generales.domain.city.rules.CityNameForStateDoesNotExistsRule;
 import co.edu.uco.UcoBet.generales.domain.city.rules.CityNameFormatIsValidRule;
 import co.edu.uco.UcoBet.generales.domain.city.rules.CityNameIsNotEmpyRule;
 import co.edu.uco.UcoBet.generales.domain.city.rules.CityNameIsNotNullRule;
-import co.edu.uco.UcoBet.generales.domain.city.rules.CityNameIsUniqueForStateRule;
 import co.edu.uco.UcoBet.generales.domain.city.rules.CityNameLenghIsValidRule;
-import co.edu.uco.UcoBet.generales.domain.city.rules.CityStateDoesExistsRule;
 import co.edu.uco.UcoBet.generales.domain.city.rules.CityStateIsValidRule;
 import co.edu.uco.UcoBet.generales.domain.state.StateDomain;
+import co.edu.uco.UcoBet.generales.domain.state.rules.StateIdIsNotNullRule;
 
 
 @Service
@@ -35,13 +32,9 @@ public final class RegisterNewCityRuleValidatorImpl implements RegisterNewCityRu
 	@Autowired
 	private CityIdIsNotEmptyRule cityIdIsNotEmptyRule;
 	@Autowired
-	private CityNameIsUniqueForStateRule cityNameIsUniqueForStateRule;
-	@Autowired
 	private CityStateIsValidRule cityStateIsValidRule;
 	@Autowired
 	private CityIdIsNotNullRule cityIdIsNotNullRule;
-	@Autowired
-	private CityIsNotUsedRule cityIsNotUsedRule;
 	@Autowired
 	private CityNameFormatIsValidRule cityNameFormatIsValidRule;
 	@Autowired
@@ -53,7 +46,7 @@ public final class RegisterNewCityRuleValidatorImpl implements RegisterNewCityRu
 	@Autowired
 	private CityNameLenghIsValidRule cityNameLenghIsValidRule;
 	@Autowired
-	private CityStateDoesExistsRule cityStateDoesExistsRule;
+	private StateIdIsNotNullRule stateIdIsNotNullRule;
 
 	
 	@Override
@@ -80,12 +73,11 @@ public final class RegisterNewCityRuleValidatorImpl implements RegisterNewCityRu
 		cityIdFormatIsValidRule.execute(id);
 		cityIdIsNotEmptyRule.execute(id);
 		cityIdIsNotNullRule.execute(id);
-		cityIsNotUsedRule.execute(id);
+
 	}
 	
 	
 	private void validateRulesRelatedWithName(final CityDomain data) {
-		cityNameIsUniqueForStateRule.execute(data);
 		cityNameFormatIsValidRule.execute(data.getName());
 		cityNameForStateDoesNotExistsRule.execute(data);
 		cityNameIsNotEmpyRule.execute(data.getName());
@@ -97,7 +89,7 @@ public final class RegisterNewCityRuleValidatorImpl implements RegisterNewCityRu
 	
 	private void validateRulesRelatedWithState(final StateDomain state) {
 		cityStateIsValidRule.execute(state);
-		cityStateDoesExistsRule.execute(state);
+		stateIdIsNotNullRule.execute(state);
 
 		
 	}

@@ -8,6 +8,6 @@ import org.springframework.stereotype.Repository;
 import co.edu.uco.UcoBet.generales.application.secondaryports.entity.StateEntity;
 
 @Repository
-public interface StateRepository extends JpaRepository<StateEntity, UUID>{
+public interface StateRepository extends JpaRepository<StateEntity, UUID>,StateRepositoryCustom{
 
 }

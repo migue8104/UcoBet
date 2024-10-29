@@ -11,14 +11,11 @@ import co.edu.uco.UcoBet.generales.domain.country.CountryDomain;
 @Mapper
 public interface CountryEntityMapper {
 	
-//	CountryEntityMapper INSTANCE = Mappers.getMapper(CountryEntityMapper.class);
-//
-//	CountryEntity toEntity(CountryDomain domain);
-//
-//	CountryDomain toDomain(CountryEntity entity);
-//
-//	List<CountryEntity> toEntityCollection(List<CountryDomain> domainCollection);
-//
-//	List<CountryDomain> toDomainCollection(List<CountryEntity> entityCollection);
+	CountryEntityMapper INSTANCE = Mappers.getMapper(CountryEntityMapper.class);
+
+	CountryEntity toEntity(CountryDomain domain);
+
+	List<CountryEntity> toEntityCollection(List<CountryDomain> domainCollection);
+
 
 }

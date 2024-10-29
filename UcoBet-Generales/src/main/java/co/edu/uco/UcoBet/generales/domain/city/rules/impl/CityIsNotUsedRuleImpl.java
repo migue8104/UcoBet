@@ -21,7 +21,6 @@ public class CityIsNotUsedRuleImpl implements CityIsNotUsedRule{
 
 	@Override
 	public void execute(UUID data) {
-//me falta este
 		
 		
 	}
