@@ -4597,3 +4597,819 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2024-10-27 20:26:06,825 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-10-27 20:26:06,879 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-10-27 20:26:06,896 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-29 00:52:23,955 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-29 01:05:56,104 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 01:05:56,588 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 01:05:56,625 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-29 01:08:37,284 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 01:08:37,494 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 01:08:37,533 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 01:09:18,957 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 01:09:19,059 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 01:09:19,082 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 01:12:07,260 [Worker-32: Launching api-gateway - ApiGatewayApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 01:12:07,434 [Worker-32: Launching api-gateway - ApiGatewayApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 01:12:07,452 [Worker-32: Launching api-gateway - ApiGatewayApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 01:12:48,561 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.uco.UcoBet:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\pom.xml.
+2024-10-29 01:12:53,547 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/azure/azure-core/1.53.0/azure-core-1.53.0.pom
+2024-10-29 01:12:53,868 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/azure/azure-core/1.53.0/azure-core-1.53.0.pom
+2024-10-29 01:12:54,530 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/azure/azure-core-amqp/2.9.10/azure-core-amqp-2.9.10.pom
+2024-10-29 01:12:54,653 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/azure/azure-core-amqp/2.9.10/azure-core-amqp-2.9.10.pom
+2024-10-29 01:12:54,805 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/azure/azure-core-management/1.15.4/azure-core-management-1.15.4.pom
+2024-10-29 01:12:54,931 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/azure/azure-core-management/1.15.4/azure-core-management-1.15.4.pom
+2024-10-29 01:12:55,667 [Worker-33: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier  to /UcoBet-Generales/target/classes
+2024-10-29 01:12:56,282 [Worker-33: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier  to /UcoBet-Generales/target/classes
+2024-10-29 01:12:56,560 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/azure/azure-core-amqp/2.9.10/azure-core-amqp-2.9.10.jar
+2024-10-29 01:12:56,836 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/azure/azure-core-amqp/2.9.10/azure-core-amqp-2.9.10.jar
+2024-10-29 01:12:56,876 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/azure/azure-core-management/1.15.4/azure-core-management-1.15.4.jar
+2024-10-29 01:12:57,003 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/azure/azure-core-management/1.15.4/azure-core-management-1.15.4.jar
+2024-10-29 01:12:59,689 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 01:12:59,692 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 01:12:59,711 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 01:13:00,501 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/azure/azure-core-amqp/2.9.10/azure-core-amqp-2.9.10-sources.jar
+2024-10-29 01:13:01,585 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/azure/azure-core-amqp/2.9.10/azure-core-amqp-2.9.10-sources.jar
+2024-10-29 01:13:01,596 [Worker-27: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.azure:azure-core-amqp:2.9.10
+2024-10-29 01:13:01,856 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/azure/azure-core-management/1.15.4/azure-core-management-1.15.4-sources.jar
+2024-10-29 01:13:02,235 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 01:13:02,322 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 01:13:02,333 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 01:13:03,926 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/azure/azure-core-management/1.15.4/azure-core-management-1.15.4-sources.jar
+2024-10-29 01:13:03,942 [Worker-27: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.azure:azure-core-management:1.15.4
+2024-10-29 01:13:14,638 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 01:13:14,699 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 01:13:14,711 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 01:14:34,932 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 01:14:35,104 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 01:14:35,118 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 01:14:52,715 [Worker-24: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 01:14:53,932 [Worker-24: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 01:14:55,254 [Worker-24: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 01:17:46,425 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 01:17:46,555 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 01:17:46,577 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 01:24:35,731 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-29 01:25:36,292 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 01:25:36,504 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 01:25:36,618 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-29 01:25:46,733 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier  to /UcoBet-Generales/target/classes
+2024-10-29 01:25:47,591 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 01:25:47,655 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 01:25:47,669 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 01:26:17,117 [Worker-3: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 01:26:18,319 [Worker-3: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 01:26:19,598 [Worker-3: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 01:27:41,718 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 01:27:41,949 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 01:27:41,959 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 01:28:08,157 [Worker-5: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 01:28:09,516 [Worker-5: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 01:28:11,729 [Worker-5: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 19:40:31,813 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-29 19:41:41,012 [Worker-11: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier  to /UcoBet-Generales/target/classes
+2024-10-29 19:41:48,228 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 19:41:48,426 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 19:41:48,443 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 19:42:20,269 [Worker-8: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 19:42:23,363 [Worker-8: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 19:42:26,782 [Worker-8: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 19:48:24,002 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 19:48:24,254 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 19:48:24,362 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 19:48:30,434 [Worker-22: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 19:48:31,925 [Worker-22: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 19:48:33,452 [Worker-22: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 19:50:35,152 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 19:50:35,238 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 19:50:35,253 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 19:50:45,533 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 19:50:45,552 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 19:50:45,562 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 19:50:50,843 [Worker-18: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 19:50:52,279 [Worker-18: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 19:50:53,651 [Worker-18: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:04:47,054 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-29 20:05:25,944 [Worker-4: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier  to /UcoBet-Generales/target/classes
+2024-10-29 20:05:55,038 [Worker-15: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:05:56,690 [Worker-15: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:05:58,276 [Worker-15: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:06:27,802 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:06:27,846 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:06:27,866 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:06:31,312 [Worker-3: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:06:32,988 [Worker-3: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:06:34,737 [Worker-3: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:06:59,964 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:06:59,983 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:06:59,996 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:07:18,181 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:07:18,282 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:07:18,316 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-29 20:07:19,232 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:07:19,281 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:07:19,294 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:07:24,373 [Worker-9: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:07:25,212 [Worker-9: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:07:26,073 [Worker-9: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:07:53,533 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-29 20:07:57,881 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.uco.UcoBet:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\pom.xml.
+2024-10-29 20:08:00,591 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier  to /UcoBet-Generales/target/classes
+2024-10-29 20:08:02,751 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2024-10-29 20:08:02,757 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2024-10-29 20:08:02,759 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2024-10-29 20:08:02,761 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2024-10-29 20:08:02,763 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/test/resources
+2024-10-29 20:08:04,725 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 8,00 sec, update config takes 2,00 sec 
+2024-10-29 20:08:05,348 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:08:05,382 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:08:05,397 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:08:11,764 [Worker-16: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:08:12,612 [Worker-16: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:08:13,452 [Worker-16: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:08:59,692 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:08:59,709 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:08:59,721 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:09:08,694 [Worker-9: Launching api-gateway - ApiGatewayApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:09:08,741 [Worker-9: Launching api-gateway - ApiGatewayApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:09:08,756 [Worker-9: Launching api-gateway - ApiGatewayApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:09:10,273 [Worker-9: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:09:11,649 [Worker-9: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:09:12,709 [Worker-9: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:09:44,144 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-29 20:09:45,455 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.uco.UcoBet:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\pom.xml.
+2024-10-29 20:09:48,046 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier  to /UcoBet-Generales/target/classes
+2024-10-29 20:09:50,013 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2024-10-29 20:09:50,016 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2024-10-29 20:09:50,019 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2024-10-29 20:09:50,019 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2024-10-29 20:09:50,022 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/test/resources
+2024-10-29 20:09:51,766 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 5,00 sec, update config takes 1,00 sec 
+2024-10-29 20:09:52,571 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:09:52,622 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:09:52,645 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:10:28,091 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:10:28,114 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:10:28,123 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:10:37,478 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:10:37,492 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:10:37,501 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:11:23,318 [Worker-14: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:11:24,176 [Worker-14: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:11:25,035 [Worker-14: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:12:00,300 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:12:00,311 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:12:00,317 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:12:02,075 [Worker-8: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:12:03,386 [Worker-8: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:12:04,519 [Worker-8: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:13:23,900 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:13:23,946 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:13:23,953 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:13:26,723 [Worker-5: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:13:27,839 [Worker-5: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:13:28,698 [Worker-5: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:14:12,778 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:14:12,792 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:14:12,802 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:14:16,085 [Worker-5: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:14:17,251 [Worker-5: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:14:18,651 [Worker-5: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:17:13,905 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.uco.UcoBet:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\pom.xml.
+2024-10-29 20:17:17,277 [Worker-15: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier  to /UcoBet-Generales/target/classes
+2024-10-29 20:17:20,404 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:17:20,408 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:17:20,419 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:17:22,285 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:17:22,334 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:17:22,344 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:17:25,263 [Worker-17: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.uco.UcoBet:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\pom.xml.
+2024-10-29 20:17:28,517 [Worker-17: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier  to /UcoBet-Generales/target/classes
+2024-10-29 20:17:31,209 [Worker-17: Launching api-gateway - ApiGatewayApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:17:31,212 [Worker-17: Launching api-gateway - ApiGatewayApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:17:31,220 [Worker-17: Launching api-gateway - ApiGatewayApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:17:32,796 [Worker-17: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:17:33,699 [Worker-17: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:17:34,640 [Worker-17: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:18:02,898 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.uco.UcoBet:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\pom.xml.
+2024-10-29 20:18:05,535 [Worker-19: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier  to /UcoBet-Generales/target/classes
+2024-10-29 20:18:08,007 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:18:08,010 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:18:08,021 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:18:09,585 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:18:09,626 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:18:09,634 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:18:13,726 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:18:13,801 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:18:13,811 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:18:22,450 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:18:22,465 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:18:22,475 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:18:28,633 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:18:28,709 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:18:28,727 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:18:32,086 [Worker-15: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:18:32,897 [Worker-15: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:18:33,732 [Worker-15: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:19:48,300 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:19:48,382 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:19:48,393 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:19:51,384 [Worker-19: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:19:52,218 [Worker-19: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:19:53,024 [Worker-19: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/UcoBet-Generales: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT with classifier null to /UcoBet-Generales/target/classes
+2024-10-29 20:20:40,945 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:20:40,960 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:20:40,987 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-29 20:20:41,788 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:20:41,793 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:20:41,801 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:21:36,510 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.uco.UcoBet:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\pom.xml.
+2024-10-29 20:21:39,489 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:21:39,492 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:21:39,501 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:21:41,789 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:21:41,833 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:21:41,842 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:22:53,875 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:22:53,915 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:22:53,922 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:40:55,048 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:40:55,415 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:40:55,443 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-29 20:42:27,119 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-29 20:42:27,443 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-29 20:42:27,452 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-10-30 17:15:54,774 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-31 23:51:11,609 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-01 00:19:32,778 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-01 00:19:33,274 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-01 00:19:33,301 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-11-01 00:19:59,831 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-01 00:19:59,990 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-01 00:20:00,004 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-11-02 00:16:32,520 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-02 00:19:22,716 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT @ C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\pom.xml.
+2024-11-02 00:19:24,503 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-redis/3.3.4/spring-boot-starter-data-redis-3.3.4.pom
+2024-11-02 00:19:24,565 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-redis/3.3.4/spring-boot-starter-data-redis-3.3.4.pom
+2024-11-02 00:19:24,626 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/lettuce/lettuce-core/6.3.2.RELEASE/lettuce-core-6.3.2.RELEASE.pom
+2024-11-02 00:19:24,683 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/lettuce/lettuce-core/6.3.2.RELEASE/lettuce-core-6.3.2.RELEASE.pom
+2024-11-02 00:19:24,746 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-redis/3.3.4/spring-data-redis-3.3.4.pom
+2024-11-02 00:19:24,795 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-redis/3.3.4/spring-data-redis-3.3.4.pom
+2024-11-02 00:19:24,862 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-keyvalue/3.3.4/spring-data-keyvalue-3.3.4.pom
+2024-11-02 00:19:24,909 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-keyvalue/3.3.4/spring-data-keyvalue-3.3.4.pom
+2024-11-02 00:19:24,965 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/6.1.13/spring-oxm-6.1.13.pom
+2024-11-02 00:19:25,010 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/6.1.13/spring-oxm-6.1.13.pom
+2024-11-02 00:19:25,779 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-redis/3.3.4/spring-boot-starter-data-redis-3.3.4.jar
+2024-11-02 00:19:25,846 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-redis/3.3.4/spring-boot-starter-data-redis-3.3.4.jar
+2024-11-02 00:19:25,877 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-redis/3.3.4/spring-data-redis-3.3.4.jar
+2024-11-02 00:19:26,003 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/lettuce/lettuce-core/6.3.2.RELEASE/lettuce-core-6.3.2.RELEASE.jar
+2024-11-02 00:19:26,042 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/6.1.13/spring-oxm-6.1.13.jar
+2024-11-02 00:19:26,042 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-keyvalue/3.3.4/spring-data-keyvalue-3.3.4.jar
+2024-11-02 00:19:26,168 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/6.1.13/spring-oxm-6.1.13.jar
+2024-11-02 00:19:26,248 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-keyvalue/3.3.4/spring-data-keyvalue-3.3.4.jar
+2024-11-02 00:19:26,763 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-redis/3.3.4/spring-data-redis-3.3.4.jar
+2024-11-02 00:19:27,155 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/lettuce/lettuce-core/6.3.2.RELEASE/lettuce-core-6.3.2.RELEASE.jar
+2024-11-02 00:19:39,265 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:19:39,376 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:19:39,392 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 00:19:39,424 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-redis/3.3.4/spring-boot-starter-data-redis-3.3.4-sources.jar
+2024-11-02 00:19:39,515 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-redis/3.3.4/spring-boot-starter-data-redis-3.3.4-sources.jar
+2024-11-02 00:19:39,527 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-redis:3.3.4
+2024-11-02 00:19:39,661 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/lettuce/lettuce-core/6.3.2.RELEASE/lettuce-core-6.3.2.RELEASE-sources.jar
+2024-11-02 00:19:40,062 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/lettuce/lettuce-core/6.3.2.RELEASE/lettuce-core-6.3.2.RELEASE-sources.jar
+2024-11-02 00:19:40,087 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.lettuce:lettuce-core:6.3.2.RELEASE
+2024-11-02 00:19:40,334 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-redis/3.3.4/spring-data-redis-3.3.4-sources.jar
+2024-11-02 00:19:40,803 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-redis/3.3.4/spring-data-redis-3.3.4-sources.jar
+2024-11-02 00:19:40,814 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-redis:3.3.4
+2024-11-02 00:19:40,941 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-keyvalue/3.3.4/spring-data-keyvalue-3.3.4-sources.jar
+2024-11-02 00:19:41,064 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-keyvalue/3.3.4/spring-data-keyvalue-3.3.4-sources.jar
+2024-11-02 00:19:41,090 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-keyvalue:3.3.4
+2024-11-02 00:19:41,226 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/6.1.13/spring-oxm-6.1.13-sources.jar
+2024-11-02 00:19:42,415 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/6.1.13/spring-oxm-6.1.13-sources.jar
+2024-11-02 00:19:42,426 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-oxm:6.1.13
+2024-11-02 00:19:42,570 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/6.1.13/spring-context-support-6.1.13-sources.jar
+2024-11-02 00:19:42,729 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/6.1.13/spring-context-support-6.1.13-sources.jar
+2024-11-02 00:19:42,756 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:6.1.13
+2024-11-02 00:19:54,117 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:19:54,187 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:19:54,484 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 00:23:32,534 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:23:32,598 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:23:32,613 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 00:25:46,474 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:25:46,494 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:25:46,563 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 00:27:27,065 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:27:27,120 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:27:27,136 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 00:29:23,158 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:29:23,191 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:29:23,205 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 00:31:11,510 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:31:11,528 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:31:11,542 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 00:58:13,785 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:58:14,176 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:58:14,197 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 00:58:19,797 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:58:23,762 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-02 00:58:23,781 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 00:58:45,247 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:58:45,294 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 00:58:45,310 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 01:04:15,893 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 01:04:16,046 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 01:04:16,064 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 01:10:42,760 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 01:10:42,957 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 01:10:42,989 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 01:10:56,713 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 01:10:56,869 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 01:10:56,897 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 14:30:26,135 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-02 14:37:47,252 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 14:37:47,832 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 14:37:47,849 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 14:59:05,310 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 14:59:05,477 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 14:59:05,496 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 15:08:33,594 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:08:33,663 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:08:33,786 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 15:08:36,557 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:08:36,643 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-02 15:08:36,655 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-11-02 15:17:38,319 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:17:38,832 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:17:38,879 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 15:17:47,900 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:17:48,004 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:17:48,019 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 15:22:15,424 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:22:15,496 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:22:15,525 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 15:47:38,617 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:47:39,042 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:47:39,065 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 15:50:31,577 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:50:32,300 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:50:32,342 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 15:51:25,796 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:51:26,000 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:51:26,015 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 15:51:44,906 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:51:45,011 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:51:45,025 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 15:55:13,034 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:55:13,134 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 15:55:13,146 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 16:01:45,203 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:01:45,830 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-02 16:01:45,877 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-11-02 16:01:53,099 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:01:53,486 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-02 16:01:53,915 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-11-02 16:12:35,538 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-11-02 16:12:47,447 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.uco.UcoBet:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\pom.xml.
+2024-11-02 16:12:49,915 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT @ C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\pom.xml.
+2024-11-02 16:12:54,951 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2024-11-02 16:12:54,964 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2024-11-02 16:12:54,967 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2024-11-02 16:12:54,971 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2024-11-02 16:12:54,975 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/test/resources
+2024-11-02 16:12:56,442 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UcoBet-Generales/src/main/java
+2024-11-02 16:12:56,446 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UcoBet-Generales/src/main/resources
+2024-11-02 16:12:56,448 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UcoBet-Generales/src/main/resources
+2024-11-02 16:12:56,449 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UcoBet-Generales/src/test/java
+2024-11-02 16:12:56,452 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UcoBet-Generales/src/test/resources
+2024-11-02 16:13:02,881 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 2 poms: local refresh takes 0,00 sec, refresh facades takes 18,00 sec, update config takes 5,00 sec 
+2024-11-02 16:13:13,624 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:13:13,670 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:13:13,759 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 16:13:15,122 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:13:15,165 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-02 16:13:15,175 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-11-02 16:46:49,800 [Worker-83: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.uco.UcoBet:UcoBet-generales:0.0.1-SNAPSHOT @ C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\UcoBet-Generales\pom.xml.
+2024-11-02 16:46:57,947 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sendgrid/sendgrid-java/4.9.3/sendgrid-java-4.9.3.pom
+2024-11-02 16:46:58,062 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sendgrid/sendgrid-java/4.9.3/sendgrid-java-4.9.3.pom
+2024-11-02 16:46:58,122 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sendgrid/java-http-client/4.5.0/java-http-client-4.5.0.pom
+2024-11-02 16:46:58,170 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sendgrid/java-http-client/4.5.0/java-http-client-4.5.0.pom
+2024-11-02 16:46:58,283 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk15on/1.70/bcprov-jdk15on-1.70.pom
+2024-11-02 16:46:58,331 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk15on/1.70/bcprov-jdk15on-1.70.pom
+2024-11-02 16:46:59,565 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sendgrid/sendgrid-java/4.9.3/sendgrid-java-4.9.3.jar
+2024-11-02 16:47:00,448 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sendgrid/sendgrid-java/4.9.3/sendgrid-java-4.9.3.jar
+2024-11-02 16:47:00,537 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sendgrid/java-http-client/4.5.0/java-http-client-4.5.0.jar
+2024-11-02 16:47:00,695 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk15on/1.70/bcprov-jdk15on-1.70.jar
+2024-11-02 16:47:00,897 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sendgrid/java-http-client/4.5.0/java-http-client-4.5.0.jar
+2024-11-02 16:47:04,475 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk15on/1.70/bcprov-jdk15on-1.70.jar
+2024-11-02 16:47:07,308 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-02 16:47:07,312 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-02 16:47:07,327 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 16:47:07,836 [Worker-84: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sendgrid/sendgrid-java/4.9.3/sendgrid-java-4.9.3-sources.jar
+2024-11-02 16:47:09,930 [Worker-84: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sendgrid/sendgrid-java/4.9.3/sendgrid-java-4.9.3-sources.jar
+2024-11-02 16:47:10,000 [Worker-84: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sendgrid:sendgrid-java:4.9.3
+2024-11-02 16:47:10,174 [Worker-84: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sendgrid/java-http-client/4.5.0/java-http-client-4.5.0-sources.jar
+2024-11-02 16:47:10,424 [Worker-84: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sendgrid/java-http-client/4.5.0/java-http-client-4.5.0-sources.jar
+2024-11-02 16:47:10,438 [Worker-84: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sendgrid:java-http-client:4.5.0
+2024-11-02 16:47:10,612 [Worker-84: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16-sources.jar
+2024-11-02 16:47:11,218 [Worker-84: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16-sources.jar
+2024-11-02 16:47:11,256 [Worker-84: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.16
+2024-11-02 16:47:11,393 [Worker-84: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar
+2024-11-02 16:47:12,025 [Worker-84: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar
+2024-11-02 16:47:12,039 [Worker-84: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.13
+2024-11-02 16:47:12,303 [Worker-84: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2024-11-02 16:47:12,565 [Worker-84: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2024-11-02 16:47:12,643 [Worker-84: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2024-11-02 16:47:12,919 [Worker-84: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.16.1/commons-codec-1.16.1-sources.jar
+2024-11-02 16:47:13,270 [Worker-84: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.16.1/commons-codec-1.16.1-sources.jar
+2024-11-02 16:47:13,285 [Worker-84: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.16.1
+2024-11-02 16:47:13,383 [Worker-84: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk15on/1.70/bcprov-jdk15on-1.70-sources.jar
+2024-11-02 16:47:15,422 [Worker-84: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk15on/1.70/bcprov-jdk15on-1.70-sources.jar
+2024-11-02 16:47:15,480 [Worker-84: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.bouncycastle:bcprov-jdk15on:1.70
+2024-11-02 16:47:29,201 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:47:29,282 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:47:29,386 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 16:47:38,432 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:47:39,466 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-02 16:47:39,481 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 16:50:11,943 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:50:12,012 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:50:12,028 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 16:50:52,092 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:50:52,141 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:50:52,156 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 16:51:18,283 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:51:18,343 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:51:18,357 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 16:54:34,924 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:54:34,950 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:54:34,961 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 16:55:23,903 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:55:23,925 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:55:23,943 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 16:56:30,630 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:56:30,769 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:56:30,787 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 16:58:01,909 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:58:01,957 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:58:01,973 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 16:58:29,007 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:58:29,024 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:58:29,033 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 16:58:54,707 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:58:54,726 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 16:58:54,744 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:00:26,751 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:00:26,786 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:00:26,800 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:00:54,578 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:00:54,595 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:00:54,608 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:01:26,352 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:01:26,370 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:01:26,382 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:02:00,188 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:02:00,213 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:02:00,225 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:03:27,132 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:03:27,153 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:03:27,168 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:04:22,861 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:04:23,322 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:04:23,347 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:07:43,376 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:07:43,560 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:07:43,611 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:09:48,906 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:09:49,165 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:09:49,183 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:25:23,839 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-02 17:26:19,377 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:26:19,447 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:26:19,467 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:27:15,802 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:27:15,823 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:27:15,869 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:27:56,308 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:27:56,356 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:27:56,371 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:28:27,625 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:28:27,645 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:28:27,660 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:29:41,632 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:29:41,651 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:29:41,670 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:30:25,393 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:30:25,411 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:30:25,426 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:30:34,870 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:30:34,891 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:30:34,906 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:30:42,585 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:30:42,604 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:30:42,617 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:30:58,396 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:30:58,408 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:30:58,421 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:31:13,057 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:31:13,088 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:31:13,130 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:31:27,567 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:31:27,592 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:31:27,606 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:31:43,896 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:31:43,911 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:31:43,926 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:32:52,803 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:32:52,833 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:32:52,847 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:33:31,923 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:33:31,943 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:33:31,956 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:34:09,783 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:34:09,801 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:34:09,814 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:34:54,798 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:34:54,843 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:34:54,858 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:39:41,898 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:39:41,972 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:39:41,985 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:43:45,980 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:43:46,013 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:43:46,029 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:43:54,618 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:43:54,636 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:43:54,651 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:44:37,053 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:44:37,081 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:44:37,097 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:46:40,064 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:46:40,086 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:46:40,099 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:48:12,387 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:48:12,408 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:48:12,420 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:48:37,911 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:48:37,930 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:48:37,973 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:48:51,738 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:48:51,756 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:48:51,772 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:49:17,035 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:49:17,048 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:49:17,061 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:49:42,341 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:49:42,360 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:49:42,371 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:51:23,183 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:51:23,201 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:51:23,246 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:52:49,662 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:52:49,686 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:52:49,702 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:53:02,288 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:53:02,308 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:53:02,323 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:53:17,883 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:53:17,897 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:53:17,911 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 17:54:01,392 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:54:01,411 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 17:54:01,422 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 18:03:14,641 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-02 18:15:56,099 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:15:56,369 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:15:56,389 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 18:16:18,140 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:16:18,157 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:16:18,175 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 18:16:58,835 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:16:58,856 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:16:58,871 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 18:20:57,696 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:20:57,959 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:20:57,973 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 18:21:37,343 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:21:37,407 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:21:37,422 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 18:24:58,923 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:24:59,117 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-02 18:24:59,130 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 18:30:43,965 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:30:44,165 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:30:44,181 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 18:30:56,579 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:30:56,612 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:30:56,825 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 18:30:59,841 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:30:59,922 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-02 18:30:59,962 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-11-02 18:40:34,950 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-02 18:46:29,131 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:46:29,203 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:46:29,216 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 18:47:29,774 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:47:29,806 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:47:29,826 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 18:55:24,820 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:55:24,854 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:55:24,874 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 18:56:45,004 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:56:45,026 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 18:56:45,040 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 19:23:22,463 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 19:23:23,214 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-02 19:23:23,247 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-11-02 19:27:13,442 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 19:27:13,705 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-02 19:27:13,725 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-11-02 19:41:31,346 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 19:41:31,535 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 19:41:31,565 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-02 23:32:55,599 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-02 23:46:05,120 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 23:46:05,345 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-02 23:46:05,378 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 00:51:05,000 [Worker-80: Launching UcoBet-Generales - UcoBetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 00:51:05,541 [Worker-80: Launching UcoBet-Generales - UcoBetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 00:51:06,047 [Worker-80: Launching UcoBet-Generales - UcoBetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 00:53:51,196 [Worker-23: Launching UcoBet-Generales - UcoBetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 00:53:52,473 [Worker-23: Launching UcoBet-Generales - UcoBetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 00:53:52,544 [Worker-23: Launching UcoBet-Generales - UcoBetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 00:54:55,581 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 00:54:56,189 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 00:54:56,217 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 00:56:43,287 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 00:56:43,809 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 00:56:43,854 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 01:52:53,599 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-03 01:55:04,000 [Worker-2: Launching UcoBet-Generales - UcoBetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 01:55:04,070 [Worker-2: Launching UcoBet-Generales - UcoBetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 01:55:04,102 [Worker-2: Launching UcoBet-Generales - UcoBetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 02:18:24,219 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 02:18:24,864 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 02:18:24,887 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 02:19:24,680 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 02:19:24,710 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 02:19:24,725 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 02:26:15,788 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 02:26:16,321 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 02:26:16,348 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 02:28:58,093 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 02:28:58,342 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 02:28:58,355 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 02:50:10,597 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 02:50:11,051 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 02:50:11,066 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 02:54:06,129 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 02:54:06,380 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 02:54:06,396 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 02:54:54,042 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 02:54:54,291 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 02:54:54,308 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 02:56:05,261 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 02:56:05,458 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 02:56:05,480 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 13:50:33,071 [Worker-12: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-03 14:47:52,706 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 14:47:53,392 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 14:47:53,431 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 14:53:45,227 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 14:53:45,293 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 14:53:45,776 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 14:55:05,957 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 14:55:06,263 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 14:55:06,284 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 14:55:39,826 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 14:55:39,949 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 14:55:39,968 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 14:57:30,045 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 14:57:30,193 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 14:57:30,218 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:16:15,365 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-03 15:20:06,061 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:20:06,137 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:20:06,816 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:20:40,204 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:20:40,243 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:20:40,280 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:21:14,008 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:21:14,048 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:21:14,066 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:22:19,767 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:22:20,431 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:22:20,557 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:27:41,299 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-03 15:28:37,173 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:28:37,244 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:28:38,851 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:30:18,648 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:30:18,694 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:30:18,714 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:31:34,329 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:31:34,373 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:31:34,393 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:33:15,212 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:33:15,254 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:33:15,271 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:33:44,164 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:33:44,202 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:33:44,234 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:34:23,939 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:34:23,994 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:34:24,013 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:35:30,436 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:35:30,498 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:35:30,516 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:36:57,488 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:36:57,587 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:36:57,602 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:38:56,867 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:38:57,024 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:38:57,046 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:39:41,759 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:39:41,823 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:39:41,840 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:39:51,546 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:39:51,566 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:39:51,591 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:40:44,026 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:40:44,141 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:40:44,164 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:43:01,983 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:43:02,032 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:43:02,060 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:45:11,140 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:45:11,359 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:45:11,381 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:45:31,216 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:45:31,623 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:45:31,683 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:46:26,044 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:46:26,082 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:46:26,120 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:46:29,688 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:46:29,983 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-03 15:46:30,029 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-11-03 15:47:14,816 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:47:15,231 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:47:15,246 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:47:46,873 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:47:46,897 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:47:46,914 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:53:38,182 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:53:38,575 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:53:38,607 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:59:24,600 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:59:25,072 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:59:25,098 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 15:59:47,280 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:59:47,318 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 15:59:47,334 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 16:04:17,423 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 16:04:17,678 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 16:04:17,707 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 16:14:48,122 [Worker-37: Launching api-gateway - ApiGatewayApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 16:14:48,435 [Worker-37: Launching api-gateway - ApiGatewayApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-03 16:14:48,461 [Worker-37: Launching api-gateway - ApiGatewayApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniela\OneDrive\Documentos\MIGUE JARAMILLO\Workspace-UcoBet\api-gateway\src\test\resources
+2024-11-03 16:23:10,195 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 16:23:10,522 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 16:23:10,544 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 16:29:45,475 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 16:29:45,824 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 16:29:45,856 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 16:30:37,283 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 16:30:37,306 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 16:30:37,322 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 16:34:14,159 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 16:34:14,312 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 16:34:14,329 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 16:36:49,515 [Worker-48: Launching UcoBet-Generales - UcoBetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 16:36:50,095 [Worker-48: Launching UcoBet-Generales - UcoBetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 16:36:50,120 [Worker-48: Launching UcoBet-Generales - UcoBetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 17:08:46,177 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:08:46,423 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:08:46,453 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 17:09:53,781 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:09:54,001 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:09:54,029 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 17:10:07,674 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:10:07,790 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:10:07,811 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 17:17:45,610 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:17:45,855 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:17:45,874 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 17:20:25,016 [Worker-65: Launching UcoBet-Generales - UcoBetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:20:25,137 [Worker-65: Launching UcoBet-Generales - UcoBetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:20:25,155 [Worker-65: Launching UcoBet-Generales - UcoBetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 17:24:41,578 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:24:41,840 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:24:41,861 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 17:25:47,656 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:25:48,470 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:25:48,574 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 17:27:39,767 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:27:40,015 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:27:40,040 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-03 17:27:50,073 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:27:50,559 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-03 17:27:50,585 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes

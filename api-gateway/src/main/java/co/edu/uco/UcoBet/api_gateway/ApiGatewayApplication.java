@@ -2,7 +2,6 @@ package co.edu.uco.UcoBet.api_gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
 @SpringBootApplication
 public class ApiGatewayApplication {
 

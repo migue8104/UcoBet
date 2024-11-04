@@ -28,7 +28,7 @@ public class ConsultStateInteractorImpl implements ConsultStateInteractor {
 		try {
 			var stateDomain = StateDtoMapper.INSTANCE.toDomain(data);
 			var resultado = consultStateUseCase.execute(stateDomain);
-			return StateDtoMapper.INSTANCE.toDTOCollection(resultado);
+			return StateDtoMapper.INSTANCE.toDtoCollection(resultado);
 		} catch (UcoBetException exception) {
 			var mensajeUsuario = "Se ha presentado un problema al consultar la información de los estados";
 			throw DataUcoBetException.create(mensajeUsuario);

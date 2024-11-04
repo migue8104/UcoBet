@@ -1,6 +1,8 @@
 package co.edu.uco.UcoBet.generales.application.usecase.city.impl;
 
 
+import java.util.UUID;
+
 import org.springframework.stereotype.Service;
 
 import co.edu.uco.UcoBet.generales.application.secondaryports.entity.CityEntity;
@@ -8,6 +10,7 @@ import co.edu.uco.UcoBet.generales.application.secondaryports.mapper.StateEntity
 import co.edu.uco.UcoBet.generales.application.secondaryports.repository.CityRepository;
 import co.edu.uco.UcoBet.generales.application.usecase.city.RegisterNewCity;
 import co.edu.uco.UcoBet.generales.application.usecase.city.RegisterNewCityRuleValidator;
+import co.edu.uco.UcoBet.generales.crosscutting.helpers.UUIDHelper;
 import co.edu.uco.UcoBet.generales.domain.city.CityDomain;
 
 @Service
@@ -28,7 +31,7 @@ public final class RegisterNewCityImpl implements RegisterNewCity {
 		// validar reglas de negocio
 		registerNewCityRuleValidator.validate(data);
 		
-		var id = data.getId();
+		var id = generarIdentificadorCiudad();
 		System.out.println(id);
 
 		// mapper de domain a entity
@@ -48,16 +51,16 @@ public final class RegisterNewCityImpl implements RegisterNewCity {
 
 	}
 
-//	private final UUID generarIdentificadorCiudad() {
-//		UUID id = UUIDHelper.generate();
-//		boolean existeId = true;
-//
-//		while (existeId) {
-//			id = UUIDHelper.generate();
-//			var resultados = cityRepository.findById(id);
-//			existeId = !resultados.isEmpty();
-//		}
-//		return id;
-//	}
+	private final UUID generarIdentificadorCiudad() {
+		UUID id = UUIDHelper.generate();
+		boolean existeId = true;
+
+		while (existeId) {
+			id = UUIDHelper.generate();
+			var resultados = cityRepository.findById(id);
+			existeId = !resultados.isEmpty();
+		}
+		return id;
+	}
 
 }

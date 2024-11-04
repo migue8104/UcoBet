@@ -68,6 +68,17 @@ public final class RegisterNewCityRuleValidatorImpl implements RegisterNewCityRu
 
 	}
 	
+	private void validateRulesRelatedWithName(final CityDomain data) {
+		cityNameFormatIsValidRule.execute(data.getName());
+		cityNameLenghIsValidRule.execute(data.getName());
+		cityNameForStateDoesNotExistsRule.execute(data);
+		cityNameIsNotEmpyRule.execute(data.getName());
+		cityNameIsNotNullRule.execute(data.getName());
+
+	
+		
+	}
+	
 	private void validateRulesRelatedWithId(final UUID id) {
 		cityIdDoesNotExistRule.execute(id);
 		cityIdFormatIsValidRule.execute(id);
@@ -77,18 +88,10 @@ public final class RegisterNewCityRuleValidatorImpl implements RegisterNewCityRu
 	}
 	
 	
-	private void validateRulesRelatedWithName(final CityDomain data) {
-		cityNameFormatIsValidRule.execute(data.getName());
-		cityNameForStateDoesNotExistsRule.execute(data);
-		cityNameIsNotEmpyRule.execute(data.getName());
-		cityNameIsNotNullRule.execute(data.getName());
-		cityNameLenghIsValidRule.execute(data.getName());
-	
-		
-	}
+
 	
 	private void validateRulesRelatedWithState(final StateDomain state) {
-		cityStateIsValidRule.execute(state);
+//		cityStateIsValidRule.execute(state);
 		stateIdIsNotNullRule.execute(state);
 
 		

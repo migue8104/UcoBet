@@ -2,48 +2,67 @@ package co.edu.uco.UcoBet.generales.application.primaryports.dto.state;
 
 import java.util.UUID;
 
-import co.edu.uco.UcoBet.generales.application.primaryports.dto.city.RegisterNewCityDto;
+import co.edu.uco.UcoBet.generales.application.primaryports.dto.country.CountryDto;
+import co.edu.uco.UcoBet.generales.crosscutting.helpers.ObjectHelper;
 import co.edu.uco.UcoBet.generales.crosscutting.helpers.TextHelper;
 import co.edu.uco.UcoBet.generales.crosscutting.helpers.UUIDHelper;
 
 public class ConsultStateDto {
 	
+	private UUID id;
+	
 	private String name;
 
-	private UUID country;
+	private CountryDto country;
 
-	public ConsultStateDto() {
-		setName(TextHelper.EMPTY);
-		setCountry(UUIDHelper.getDefault());
-	}
-
-	public ConsultStateDto(final String name, final UUID state) {
+	public ConsultStateDto(UUID id, String name, CountryDto country) {
+		setId(id);
 		setName(name);
-		setCountry(state);
+		setCountry(country);
 	}
-
-	public static final ConsultStateDto create(final String name, final UUID state) {
-		return new ConsultStateDto(name, state);
+	
+	public ConsultStateDto() {
+		setId(UUIDHelper.getDefault());
+		setName(TextHelper.EMPTY);
+		setCountry(CountryDto.create());
+	}
+	
+	public static final ConsultStateDto create(UUID id, String name, CountryDto country) {
+		return new ConsultStateDto(id,name,country);
 	}
 	
 	public static final ConsultStateDto create() {
 		return new ConsultStateDto();
+	}
+	
+	
+
+	public UUID getId() {
+		return id;
+	}
+
+	public void setId(UUID id) {
+		this.id = UUIDHelper.getDefault(id,UUIDHelper.getDefault());
 	}
 
 	public String getName() {
 		return name;
 	}
 
-	public void setName(final String name) {
+	public void setName(String name) {
 		this.name = TextHelper.applyTrim(name);
 	}
 
-	public UUID getCountry() {
+	public CountryDto getCountry() {
 		return country;
 	}
 
-	public void setCountry(final UUID country) {
-		this.country = UUIDHelper.getDefault(country, UUIDHelper.getDefault());
+	public void setCountry(CountryDto country) {
+		this.country = ObjectHelper.getObjectHelper().getDefault(country, CountryDto.create());
 	}
+
+	
+	
+	
 
 }

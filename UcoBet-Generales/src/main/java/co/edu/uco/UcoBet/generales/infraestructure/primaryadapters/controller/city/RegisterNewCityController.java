@@ -1,5 +1,6 @@
 package co.edu.uco.UcoBet.generales.infraestructure.primaryadapters.controller.city;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -13,12 +14,16 @@ import co.edu.uco.UcoBet.generales.application.primaryports.interactor.city.Regi
 import co.edu.uco.UcoBet.generales.crosscutting.exceptions.UcoBetException;
 import co.edu.uco.UcoBet.generales.crosscutting.helpers.UUIDHelper;
 import co.edu.uco.UcoBet.generales.infraestructure.primaryadapters.controller.response.CityResponse;
+import co.edu.uco.UcoBet.generales.infraestructure.secondaryadapters.data.MessageCatalogService;
 
 @RestController
 @RequestMapping("/generales/api/v1/cities")
 public class RegisterNewCityController {
 	
 	private RegisterNewCityInteractor registerNewCityInteractor;
+	
+	@Autowired
+	private MessageCatalogService messageCatalogService;
 	
 	 public RegisterNewCityController(final RegisterNewCityInteractor registerNewCityInteractor) {
 		 this.registerNewCityInteractor=registerNewCityInteractor;
@@ -38,7 +43,7 @@ public class RegisterNewCityController {
 
 		try {
 			registerNewCityInteractor.execute(city);
-			ciudadResponse.getMensajes().add("Ciudad creada exitosamente");
+			ciudadResponse.getMensajes().add("ciudad creada exitosamente");
 
 		} catch (final UcoBetException excepcion) {
 			httpStatusCode = HttpStatus.BAD_REQUEST;

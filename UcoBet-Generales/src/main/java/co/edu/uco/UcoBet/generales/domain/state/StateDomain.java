@@ -24,7 +24,7 @@ public class StateDomain extends Domain {
 		return name;
 	}
 
-	private void setName(String name) {
+	public void setName(String name) {
 		this.name = name;
 	}
 
@@ -32,7 +32,7 @@ public class StateDomain extends Domain {
 		return country;
 	}
 
-	private void setCountry(CountryDomain country) {
+	public void setCountry(CountryDomain country) {
 		this.country = country;
 	}
 

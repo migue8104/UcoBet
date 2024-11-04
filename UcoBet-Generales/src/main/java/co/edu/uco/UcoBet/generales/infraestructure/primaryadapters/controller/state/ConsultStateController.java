@@ -2,6 +2,7 @@ package co.edu.uco.UcoBet.generales.infraestructure.primaryadapters.controller.s
 
 import java.util.UUID;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -16,12 +17,16 @@ import co.edu.uco.UcoBet.generales.crosscutting.exceptions.UcoBetException;
 import co.edu.uco.UcoBet.generales.crosscutting.exceptions.messageCatalog.MessageCatalogStrategy;
 import co.edu.uco.UcoBet.generales.crosscutting.exceptions.messageCatalog.data.CodigoMensaje;
 import co.edu.uco.UcoBet.generales.infraestructure.primaryadapters.controller.response.StateResponse;
+import co.edu.uco.UcoBet.generales.infraestructure.secondaryadapters.data.MessageCatalogService;
 
 @RestController
 @RequestMapping("/generales/api/v1/states")
 public class ConsultStateController {
 
 	private ConsultStateInteractor consultStateInteractor;
+	
+	@Autowired
+	private MessageCatalogService messageCatalogService;
 	
 	public ConsultStateController (ConsultStateInteractor consultStateInteractor) {
 		this.consultStateInteractor =consultStateInteractor;
@@ -36,7 +41,7 @@ public class ConsultStateController {
 			var consultStateDto = ConsultStateDto.create();
 			
 			stateResponse.setDatos(consultStateInteractor.execute(consultStateDto));
-			stateResponse.getMensajes().add("estados consultados exitosamente");
+			stateResponse.getMensajes().add(messageCatalogService.getMessage("M0001"));
 		} catch (UcoBetException exception) {
 			httpStatusCode = HttpStatus.BAD_REQUEST;
 			stateResponse.getMensajes().add(exception.getMessage());
@@ -49,5 +54,10 @@ public class ConsultStateController {
 		}
 		
 		return new ResponseEntity<>(stateResponse , httpStatusCode);
+	}
+	
+	@GetMapping("/Dummy")
+	public ConsultStateDto Dummy() {
+		return ConsultStateDto.create();
 	}
 }

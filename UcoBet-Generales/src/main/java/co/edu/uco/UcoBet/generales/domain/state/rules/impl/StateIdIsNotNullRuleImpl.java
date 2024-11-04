@@ -15,23 +15,15 @@ import co.edu.uco.UcoBet.generales.domain.state.rules.StateIdIsNotNullRule;
 @Service
 public class StateIdIsNotNullRuleImpl implements StateIdIsNotNullRule{
 	
-	private StateRepository stateRepository;
-	
-	public StateIdIsNotNullRuleImpl (StateRepository stateRepository) {
-		this.stateRepository = stateRepository;
-	}
 
 	@Override
 	public void execute(StateDomain data) {
-		var stateEntity = StateEntity.create().setId(data.getId());
-		var resultados = stateRepository.findByFilter(stateEntity);
 		
-		if(!resultados.isEmpty()) {
+		if(ObjectHelper.isNull(data)) {
 			throw StateIdIsNullException.create();
 		}
 		
 	}
-
 
 
 }

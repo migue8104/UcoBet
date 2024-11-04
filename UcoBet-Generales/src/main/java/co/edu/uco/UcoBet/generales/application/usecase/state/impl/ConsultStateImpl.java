@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import co.edu.uco.UcoBet.generales.application.secondaryports.mapper.StateEntityMapperImpl;
+import co.edu.uco.UcoBet.generales.application.secondaryports.mapper.StateEntityMapper;
 import co.edu.uco.UcoBet.generales.application.secondaryports.repository.StateRepository;
 import co.edu.uco.UcoBet.generales.application.usecase.state.ConsultState;
 import co.edu.uco.UcoBet.generales.crosscutting.exceptions.DataUcoBetException;
@@ -27,9 +27,9 @@ public class ConsultStateImpl implements ConsultState{
 
 	@Override
 	public List<StateDomain> execute(StateDomain data) {
-		var stateEntity= StateEntityMapperImpl.INSTANCE.toEntity(data);
+		var stateEntity= StateEntityMapper.INSTANCE.toEntity(data);
 		var resultados = stateRepository.findByFilter(stateEntity);
-		return StateEntityMapperImpl.INSTANCE.toDomainCollection(resultados);
+		return StateEntityMapper.INSTANCE.toDomainCollection(resultados);
 	}
 
 }
