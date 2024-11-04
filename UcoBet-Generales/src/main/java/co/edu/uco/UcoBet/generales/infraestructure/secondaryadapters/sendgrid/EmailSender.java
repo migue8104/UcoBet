@@ -2,6 +2,7 @@ package co.edu.uco.UcoBet.generales.infraestructure.secondaryadapters.sendgrid;
 
 import java.io.IOException;
 
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 import com.sendgrid.Method;
@@ -18,11 +19,12 @@ import co.edu.uco.UcoBet.generales.crosscutting.exceptions.SendgridUCOBETExcepti
 @Component
 public class EmailSender {
 
-    private final String apiKey = "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";
+    private final String apiKey;
 
-    public EmailSender() {
-        // Constructor vacío, ya no necesitas pasar la API key como parámetro
+    public EmailSender(@Value("${sendgrigapikey}") String apiKey) {
+        this.apiKey = apiKey;
     }
+
 
     public void sendEmail(String to, String subject, String content) throws SendgridUCOBETException {
         Email from = new Email("cirojeronimo17@gmail.com");
