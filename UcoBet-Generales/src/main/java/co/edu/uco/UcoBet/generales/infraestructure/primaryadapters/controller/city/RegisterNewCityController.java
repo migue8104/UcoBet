@@ -14,6 +14,7 @@ import co.edu.uco.UcoBet.generales.application.primaryports.interactor.city.Regi
 import co.edu.uco.UcoBet.generales.crosscutting.exceptions.UcoBetException;
 import co.edu.uco.UcoBet.generales.crosscutting.helpers.UUIDHelper;
 import co.edu.uco.UcoBet.generales.infraestructure.primaryadapters.controller.response.CityResponse;
+import co.edu.uco.UcoBet.generales.infraestructure.primaryadapters.services.SanitizerService;
 import co.edu.uco.UcoBet.generales.infraestructure.secondaryadapters.data.MessageCatalogService;
 
 @RestController
@@ -22,11 +23,16 @@ public class RegisterNewCityController {
 	
 	private RegisterNewCityInteractor registerNewCityInteractor;
 	
+	
+	private final SanitizerService sanitizerService;
+
+	
 	@Autowired
 	private MessageCatalogService messageCatalogService;
 	
-	 public RegisterNewCityController(final RegisterNewCityInteractor registerNewCityInteractor) {
+	 public RegisterNewCityController(final RegisterNewCityInteractor registerNewCityInteractor,SanitizerService sanitizerService) {
 		 this.registerNewCityInteractor=registerNewCityInteractor;
+		 this.sanitizerService = sanitizerService;
 	 }
 	
 
@@ -42,7 +48,12 @@ public class RegisterNewCityController {
 		var ciudadResponse = new CityResponse();
 
 		try {
-			registerNewCityInteractor.execute(city);
+			
+	        String sanitizedName = sanitizerService.sanitize(city.getName());
+	        RegisterNewCityDto citySanitized = RegisterNewCityDto.create(sanitizedName, city.getState());
+
+
+			registerNewCityInteractor.execute(citySanitized);
 			ciudadResponse.getMensajes().add("ciudad creada exitosamente");
 
 		} catch (final UcoBetException excepcion) {

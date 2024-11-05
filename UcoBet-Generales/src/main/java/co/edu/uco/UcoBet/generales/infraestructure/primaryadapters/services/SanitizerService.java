@@ -6,14 +6,19 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
-
 @Service
 public class SanitizerService {
-	 private static final Logger logger = LoggerFactory.getLogger(SanitizerService.class);
+    private static final Logger logger = LoggerFactory.getLogger(SanitizerService.class);
     private final PolicyFactory policy = Sanitizers.FORMATTING.and(Sanitizers.LINKS);
 
     public String sanitize(String input) {
-        return policy.sanitize(input);
-    }
+        if (input == null) {
+            logger.warn("Se intentó sanitizar una entrada nula");
+            return null; // o considera retornar una cadena vacía
+        }
 
+        String sanitizedInput = policy.sanitize(input);
+        logger.debug("Entrada sanitizada: {}", sanitizedInput); // Registra la salida sanitizada
+        return sanitizedInput;
+    }
 }

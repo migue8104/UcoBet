@@ -1,1 +1,0 @@
-package co.edu.uco.UcoBet.generales.infraestructure.primaryadapters;

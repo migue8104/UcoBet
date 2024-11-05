@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.application.secondaryports.mapper.StateEntityMapperImpl"/>
-    <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.application.primaryports.interactor.InteractorWithReturn"/>
     <fullyQualifiedTypeName name="jakarta.transaction.Transactional"/>
     <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.application.usecase.state.ConsultState"/>
     <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.application.primaryports.mapper.StateDtoMapper"/>
@@ -36,7 +34,6 @@
     <fullyQualifiedTypeName name="java.time.Duration"/>
     <fullyQualifiedTypeName name="org.springframework.data.redis.cache.RedisCacheConfiguration"/>
     <fullyQualifiedTypeName name="org.springframework.data.redis.cache.RedisCacheManager"/>
-    <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.infraestructure.secondaryadapters.data.MessageCatalogService"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="com.sendgrid.helpers.mail.objects.Email"/>
     <fullyQualifiedTypeName name="com.nimbusds.openid.connect.sdk.assurance.evidences.attachment.Content"/>
@@ -44,7 +41,6 @@
     <fullyQualifiedTypeName name="com.nimbusds.oauth2.sdk.Request"/>
     <fullyQualifiedTypeName name="aj.org.objectweb.asm.commons.Method"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
-    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
     <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.crosscutting.exceptions.UcoBetException"/>
     <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.infraestructure.primaryadapters.controller.response.Response"/>
     <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.application.usecase.UseCaseWithOutReturn"/>
@@ -60,4 +56,8 @@
     <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.crosscutting.helpers.TextHelper"/>
     <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.crosscutting.helpers.ObjectHelper"/>
     <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.domain.city.exception.CityNameFormatIsNotValidException"/>
+    <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.application.secondaryports.notificationservice.NotificationService"/>
+    <fullyQualifiedTypeName name="co.edu.uco.UcoBet.generales.infraestructure.secondaryadapters.data.MessageCatalogService"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
 </qualifiedTypeNameHistroy>
